@@ -1,0 +1,8 @@
+[31-Aug-2024 21:56:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Provider' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/providers/class-constant-contact.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/providers/class-constant-contact.php on line 8
+[31-Aug-2024 21:56:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Provider' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/providers/class-constant-contact.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/providers/class-constant-contact.php on line 8

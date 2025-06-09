@@ -1,0 +1,400 @@
+[08-Apr-2024 10:22:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[08-Apr-2024 10:22:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[08-Apr-2024 10:22:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[08-Apr-2024 10:22:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[08-Apr-2024 10:22:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[08-Apr-2024 10:22:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[08-Apr-2024 10:23:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[08-Apr-2024 10:23:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[08-Apr-2024 10:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[08-Apr-2024 10:23:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[08-Apr-2024 10:23:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[08-Apr-2024 10:24:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[08-Apr-2024 10:24:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[08-Apr-2024 10:24:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[08-Apr-2024 10:24:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[08-Apr-2024 10:24:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[08-Apr-2024 10:24:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[08-Apr-2024 10:24:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[08-Apr-2024 10:24:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[08-Apr-2024 10:24:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[16-Aug-2024 03:49:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[16-Aug-2024 03:49:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[16-Aug-2024 03:49:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[16-Aug-2024 03:49:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[16-Aug-2024 03:49:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[16-Aug-2024 03:49:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[16-Aug-2024 03:49:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[16-Aug-2024 03:49:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[16-Aug-2024 03:49:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[16-Aug-2024 03:49:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[16-Aug-2024 03:49:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[16-Aug-2024 03:49:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[16-Aug-2024 03:49:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[16-Aug-2024 03:49:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[16-Aug-2024 03:49:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[16-Aug-2024 03:49:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[16-Aug-2024 03:49:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[16-Aug-2024 03:49:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[16-Aug-2024 03:49:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[16-Aug-2024 03:49:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[01-Sep-2024 00:28:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[01-Sep-2024 00:28:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[01-Sep-2024 00:28:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[01-Sep-2024 00:28:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[01-Sep-2024 00:28:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[01-Sep-2024 00:28:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[01-Sep-2024 00:28:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[01-Sep-2024 00:28:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[01-Sep-2024 00:28:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[01-Sep-2024 00:28:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[01-Sep-2024 00:29:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[01-Sep-2024 00:29:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[01-Sep-2024 00:29:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[01-Sep-2024 00:29:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[01-Sep-2024 00:29:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[01-Sep-2024 00:29:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[01-Sep-2024 00:29:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[01-Sep-2024 00:29:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[01-Sep-2024 00:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[01-Sep-2024 00:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[09-Sep-2024 03:19:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[09-Sep-2024 03:19:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[09-Sep-2024 03:19:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[09-Sep-2024 03:19:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[09-Sep-2024 03:19:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[09-Sep-2024 03:20:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[09-Sep-2024 03:20:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[09-Sep-2024 03:20:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[09-Sep-2024 03:20:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[09-Sep-2024 03:20:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[09-Sep-2024 03:22:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[09-Sep-2024 03:22:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[09-Sep-2024 03:22:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[09-Sep-2024 03:22:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[09-Sep-2024 03:22:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[09-Sep-2024 03:22:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[09-Sep-2024 03:22:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[09-Sep-2024 03:23:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[09-Sep-2024 03:23:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[09-Sep-2024 03:23:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[21-Sep-2024 06:49:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[21-Sep-2024 06:49:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[21-Sep-2024 06:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[21-Sep-2024 06:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[21-Sep-2024 06:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[21-Sep-2024 06:49:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[21-Sep-2024 06:49:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[21-Sep-2024 06:49:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[21-Sep-2024 06:49:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[21-Sep-2024 06:49:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[21-Sep-2024 06:49:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[21-Sep-2024 06:49:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[21-Sep-2024 06:49:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[21-Sep-2024 06:49:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[21-Sep-2024 06:49:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[21-Sep-2024 06:49:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[21-Sep-2024 06:49:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[21-Sep-2024 06:49:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[21-Sep-2024 06:49:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[21-Sep-2024 06:49:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4

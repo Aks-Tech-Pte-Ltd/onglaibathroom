@@ -1,0 +1,16 @@
+[16-Aug-2024 02:24:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[16-Aug-2024 02:24:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[31-Aug-2024 21:13:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[31-Aug-2024 21:13:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20

@@ -1,0 +1,8 @@
+[31-Aug-2024 22:04:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_DB' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Meta.php on line 13
+[31-Aug-2024 22:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_DB' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Tasks/Meta.php on line 13

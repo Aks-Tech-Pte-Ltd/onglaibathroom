@@ -1,0 +1,1100 @@
+[29-Feb-2024 16:03:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 111
+[29-Feb-2024 16:03:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 111
+[29-Feb-2024 16:03:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[29-Feb-2024 16:03:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[29-Feb-2024 16:04:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 87
+[29-Feb-2024 16:04:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 87
+[29-Feb-2024 16:04:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[29-Feb-2024 16:04:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[29-Feb-2024 16:04:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[29-Feb-2024 16:04:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[29-Feb-2024 16:04:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 851
+[29-Feb-2024 16:04:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 851
+[29-Feb-2024 16:04:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[29-Feb-2024 16:04:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[29-Feb-2024 16:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[29-Feb-2024 16:04:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[29-Feb-2024 16:04:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 76
+[29-Feb-2024 16:04:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 76
+[29-Feb-2024 16:04:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[29-Feb-2024 16:04:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[06-Mar-2024 14:31:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 111
+[06-Mar-2024 14:31:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 111
+[06-Mar-2024 14:31:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 87
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 87
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 851
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 851
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 76
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 76
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[06-Mar-2024 14:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 111
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 111
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 87
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 87
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 851
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 851
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 76
+[06-Mar-2024 15:52:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 76
+[06-Mar-2024 15:52:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[06-Mar-2024 15:52:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[07-Mar-2024 11:57:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 111
+[07-Mar-2024 11:57:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 111
+[07-Mar-2024 11:57:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[07-Mar-2024 11:57:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[07-Mar-2024 11:57:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 87
+[07-Mar-2024 11:57:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 87
+[07-Mar-2024 11:57:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[07-Mar-2024 11:57:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[07-Mar-2024 11:57:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[07-Mar-2024 11:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[07-Mar-2024 11:57:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 851
+[07-Mar-2024 11:57:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 851
+[07-Mar-2024 11:57:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[07-Mar-2024 11:57:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[07-Mar-2024 11:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[07-Mar-2024 11:57:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[07-Mar-2024 11:57:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 76
+[07-Mar-2024 11:57:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 76
+[07-Mar-2024 11:57:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[07-Mar-2024 11:57:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[07-Mar-2024 22:34:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php on line 59
+[07-Mar-2024 22:34:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 111
+[07-Mar-2024 22:34:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[07-Mar-2024 22:34:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php on line 138
+[07-Mar-2024 22:34:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[07-Mar-2024 22:34:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 87
+[07-Mar-2024 22:34:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[07-Mar-2024 22:34:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[07-Mar-2024 22:34:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[07-Mar-2024 22:34:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 851
+[07-Mar-2024 22:34:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[07-Mar-2024 22:34:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[07-Mar-2024 22:34:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 76
+[07-Mar-2024 22:34:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[07-Mar-2024 22:34:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php on line 646
+[08-Apr-2024 08:07:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 131
+[08-Apr-2024 08:07:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 131
+[08-Apr-2024 08:30:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 131
+[08-Apr-2024 08:30:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 131
+[26-May-2024 10:51:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php on line 59
+[26-May-2024 10:51:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 131
+[26-May-2024 10:51:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[26-May-2024 10:51:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php on line 138
+[26-May-2024 10:51:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[26-May-2024 10:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 164
+[26-May-2024 10:51:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[26-May-2024 10:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[26-May-2024 10:51:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[26-May-2024 10:51:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:855
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 855
+[26-May-2024 10:51:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[26-May-2024 10:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[26-May-2024 10:51:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 75
+[26-May-2024 10:51:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[26-May-2024 10:51:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php:653
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php on line 653
+[07-Jun-2024 22:28:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php on line 59
+[07-Jun-2024 22:29:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 131
+[07-Jun-2024 22:29:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[07-Jun-2024 22:29:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php on line 138
+[07-Jun-2024 22:29:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[07-Jun-2024 22:29:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 164
+[07-Jun-2024 22:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[07-Jun-2024 22:29:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[07-Jun-2024 22:30:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[07-Jun-2024 22:30:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:855
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 855
+[07-Jun-2024 22:30:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[07-Jun-2024 22:30:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[07-Jun-2024 22:30:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 75
+[07-Jun-2024 22:30:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[07-Jun-2024 22:30:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php:653
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php on line 653
+[10-Jun-2024 10:48:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php on line 59
+[10-Jun-2024 10:48:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 131
+[10-Jun-2024 10:48:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[10-Jun-2024 10:48:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php on line 138
+[10-Jun-2024 10:48:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[10-Jun-2024 10:48:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 164
+[10-Jun-2024 10:48:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[10-Jun-2024 10:48:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[10-Jun-2024 10:48:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[10-Jun-2024 10:48:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:855
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 855
+[10-Jun-2024 10:48:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[10-Jun-2024 10:48:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[10-Jun-2024 10:48:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 75
+[10-Jun-2024 10:48:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[10-Jun-2024 10:48:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php:653
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php on line 653
+[15-Jul-2024 17:05:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php on line 59
+[15-Jul-2024 17:05:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 131
+[15-Jul-2024 17:05:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[15-Jul-2024 17:05:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php on line 138
+[15-Jul-2024 17:05:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[15-Jul-2024 17:05:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 164
+[15-Jul-2024 17:05:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[15-Jul-2024 17:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 231
+[15-Jul-2024 17:05:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[15-Jul-2024 17:05:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:855
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 855
+[15-Jul-2024 17:05:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[15-Jul-2024 17:05:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[15-Jul-2024 17:05:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 75
+[15-Jul-2024 17:05:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[15-Jul-2024 17:05:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php:653
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php on line 653
+[12-Aug-2024 10:39:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php on line 59
+[12-Aug-2024 10:39:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[12-Aug-2024 10:39:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[12-Aug-2024 10:39:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[12-Aug-2024 10:39:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php on line 138
+[12-Aug-2024 10:39:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[12-Aug-2024 10:39:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 164
+[12-Aug-2024 10:39:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[12-Aug-2024 10:39:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 263
+[12-Aug-2024 10:39:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[12-Aug-2024 10:39:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:945
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 945
+[12-Aug-2024 10:39:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[12-Aug-2024 10:39:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[12-Aug-2024 10:39:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 79
+[12-Aug-2024 10:39:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[12-Aug-2024 10:39:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php:685
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php on line 685
+[16-Aug-2024 02:58:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[16-Aug-2024 02:58:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[16-Aug-2024 02:58:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[16-Aug-2024 02:58:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[16-Aug-2024 03:10:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[16-Aug-2024 03:10:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[16-Aug-2024 03:10:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[16-Aug-2024 03:10:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[23-Aug-2024 13:25:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php on line 59
+[23-Aug-2024 13:25:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[23-Aug-2024 13:25:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[23-Aug-2024 13:25:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[23-Aug-2024 13:25:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php on line 138
+[23-Aug-2024 13:25:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[23-Aug-2024 13:25:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 164
+[23-Aug-2024 13:25:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[23-Aug-2024 13:25:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 263
+[23-Aug-2024 13:25:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[23-Aug-2024 13:25:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:945
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 945
+[23-Aug-2024 13:25:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[23-Aug-2024 13:25:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[23-Aug-2024 13:25:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 79
+[23-Aug-2024 13:25:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[23-Aug-2024 13:25:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php:685
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php on line 685
+[26-Aug-2024 14:42:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[26-Aug-2024 14:42:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[26-Aug-2024 14:42:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[26-Aug-2024 14:42:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[26-Aug-2024 14:42:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 164
+[26-Aug-2024 14:42:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 164
+[26-Aug-2024 14:42:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[26-Aug-2024 14:42:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[26-Aug-2024 14:42:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 263
+[26-Aug-2024 14:42:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 263
+[26-Aug-2024 14:42:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:945
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 945
+[26-Aug-2024 14:42:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:945
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 945
+[26-Aug-2024 14:42:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[26-Aug-2024 14:42:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[26-Aug-2024 14:42:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[26-Aug-2024 14:42:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[26-Aug-2024 14:42:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 79
+[26-Aug-2024 14:42:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 79
+[26-Aug-2024 14:42:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[26-Aug-2024 14:42:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[31-Aug-2024 22:32:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[31-Aug-2024 22:32:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[31-Aug-2024 22:32:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[31-Aug-2024 22:32:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[31-Aug-2024 22:56:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[31-Aug-2024 22:56:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[31-Aug-2024 22:56:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[31-Aug-2024 22:56:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[08-Sep-2024 06:07:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php on line 59
+[08-Sep-2024 06:07:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[08-Sep-2024 06:07:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[08-Sep-2024 06:07:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[08-Sep-2024 06:07:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php on line 138
+[08-Sep-2024 06:07:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[08-Sep-2024 06:07:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 164
+[08-Sep-2024 06:07:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[08-Sep-2024 06:07:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 263
+[08-Sep-2024 06:07:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[08-Sep-2024 06:07:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:945
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 945
+[08-Sep-2024 06:07:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[08-Sep-2024 06:07:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[08-Sep-2024 06:07:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 79
+[08-Sep-2024 06:07:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[08-Sep-2024 06:07:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php:685
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php on line 685
+[09-Sep-2024 00:15:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[09-Sep-2024 00:16:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[09-Sep-2024 00:16:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[09-Sep-2024 00:16:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[09-Sep-2024 01:00:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[09-Sep-2024 01:00:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[09-Sep-2024 01:00:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[09-Sep-2024 01:01:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[16-Sep-2024 08:46:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[16-Sep-2024 08:46:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[16-Sep-2024 19:07:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[16-Sep-2024 19:07:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[21-Sep-2024 06:34:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[21-Sep-2024 06:34:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[21-Sep-2024 06:36:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[21-Sep-2024 06:36:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[27-Sep-2024 23:48:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/align.php on line 59
+[27-Sep-2024 23:48:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/background.php on line 108
+[27-Sep-2024 23:48:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[27-Sep-2024 23:48:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/border.php on line 170
+[27-Sep-2024 23:48:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/colors.php on line 138
+[27-Sep-2024 23:48:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[27-Sep-2024 23:48:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/dimensions.php on line 164
+[27-Sep-2024 23:48:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/duotone.php on line 36
+[27-Sep-2024 23:48:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/elements.php on line 263
+[27-Sep-2024 23:48:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[27-Sep-2024 23:48:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php:945
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/layout.php on line 945
+[27-Sep-2024 23:48:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/position.php on line 145
+[27-Sep-2024 23:48:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/settings.php on line 151
+[27-Sep-2024 23:48:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/shadow.php on line 79
+[27-Sep-2024 23:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/spacing.php on line 83
+[27-Sep-2024 23:48:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php:685
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-supports/typography.php on line 685

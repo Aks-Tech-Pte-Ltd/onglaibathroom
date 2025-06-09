@@ -1,0 +1,252 @@
+[08-Apr-2024 09:51:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[08-Apr-2024 09:51:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[08-Apr-2024 09:51:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[08-Apr-2024 09:51:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[08-Apr-2024 09:51:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[08-Apr-2024 09:51:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[08-Apr-2024 10:07:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[08-Apr-2024 10:07:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[08-Apr-2024 10:07:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[08-Apr-2024 10:07:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[08-Apr-2024 10:07:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[08-Apr-2024 10:07:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[15-Jul-2024 17:06:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[15-Jul-2024 17:06:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[15-Jul-2024 17:06:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[16-Aug-2024 03:41:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[16-Aug-2024 03:41:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[16-Aug-2024 03:41:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[16-Aug-2024 03:41:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[16-Aug-2024 03:41:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[16-Aug-2024 03:41:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[16-Aug-2024 03:45:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[16-Aug-2024 03:45:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[16-Aug-2024 03:45:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[16-Aug-2024 03:45:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[16-Aug-2024 03:45:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[16-Aug-2024 03:45:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Sep-2024 00:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Sep-2024 00:05:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Sep-2024 00:05:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Sep-2024 00:05:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Sep-2024 00:05:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Sep-2024 00:05:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Sep-2024 00:15:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Sep-2024 00:16:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Sep-2024 00:16:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Sep-2024 00:16:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Sep-2024 00:16:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Sep-2024 00:16:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[09-Sep-2024 02:41:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[09-Sep-2024 02:41:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[09-Sep-2024 02:41:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[09-Sep-2024 02:41:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[09-Sep-2024 02:41:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[09-Sep-2024 02:42:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[09-Sep-2024 03:00:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[09-Sep-2024 03:00:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[09-Sep-2024 03:00:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[09-Sep-2024 03:00:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[09-Sep-2024 03:00:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[09-Sep-2024 03:00:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[21-Sep-2024 06:46:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[21-Sep-2024 06:46:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[21-Sep-2024 06:46:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[21-Sep-2024 06:46:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[21-Sep-2024 06:46:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[21-Sep-2024 06:46:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[21-Sep-2024 06:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[21-Sep-2024 06:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[21-Sep-2024 06:47:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[21-Sep-2024 06:47:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[21-Sep-2024 06:47:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[21-Sep-2024 06:47:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17

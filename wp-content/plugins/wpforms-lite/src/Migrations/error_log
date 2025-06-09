@@ -1,0 +1,56 @@
+[31-Aug-2024 22:03:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\Base' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Migrations.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Migrations.php on line 12
+[31-Aug-2024 22:03:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\Base' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Migrations.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Migrations.php on line 12
+[31-Aug-2024 22:03:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\UpgradeBase' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade159.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade159.php on line 12
+[31-Aug-2024 22:03:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\UpgradeBase' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade159.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade159.php on line 12
+[31-Aug-2024 22:03:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\UpgradeBase' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade168.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade168.php on line 12
+[31-Aug-2024 22:03:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\UpgradeBase' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade168.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade168.php on line 12
+[31-Aug-2024 22:03:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\UpgradeBase' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade175.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade175.php on line 15
+[31-Aug-2024 22:03:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\UpgradeBase' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade175.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade175.php on line 15
+[31-Aug-2024 22:04:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\UpgradeBase' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade177.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade177.php on line 10
+[31-Aug-2024 22:04:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\UpgradeBase' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade177.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade177.php on line 10
+[31-Aug-2024 22:04:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\UpgradeBase' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1672.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1672.php on line 12
+[31-Aug-2024 22:04:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\UpgradeBase' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1672.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1672.php on line 12
+[31-Aug-2024 22:04:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\UpgradeBase' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1751.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1751.php on line 12
+[31-Aug-2024 22:04:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Migrations\UpgradeBase' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1751.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Migrations/Upgrade1751.php on line 12

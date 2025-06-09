@@ -1,0 +1,68 @@
+[31-Aug-2024 21:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-about.php:73
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-about.php(1595): WPForms_About->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-about.php on line 73
+[31-Aug-2024 21:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-about.php:73
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-about.php(1595): WPForms_About->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-about.php on line 73
+[31-Aug-2024 21:52:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-editor.php:17
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-editor.php(379): WPForms_Admin_Editor->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-editor.php on line 17
+[31-Aug-2024 21:52:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-editor.php:17
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-editor.php(379): WPForms_Admin_Editor->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-editor.php on line 17
+[31-Aug-2024 21:52:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Helpers\PluginSilentUpgraderSkin' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-install-skin.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-install-skin.php on line 11
+[31-Aug-2024 21:52:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Helpers\PluginSilentUpgraderSkin' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-install-skin.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-install-skin.php on line 11
+[31-Aug-2024 21:52:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-menu.php:18
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-menu.php(399): WPForms_Admin_Menu->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-menu.php on line 18
+[31-Aug-2024 21:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-menu.php:18
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-menu.php(399): WPForms_Admin_Menu->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-menu.php on line 18
+[31-Aug-2024 21:52:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-review.php:18
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-review.php(244): WPForms_Review->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-review.php on line 18
+[31-Aug-2024 21:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-review.php:18
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-review.php(244): WPForms_Review->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-review.php on line 18
+[31-Aug-2024 21:52:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-settings.php:27
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-settings.php(685): WPForms_Settings->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-settings.php on line 27
+[31-Aug-2024 21:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-settings.php:27
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-settings.php(685): WPForms_Settings->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-settings.php on line 27
+[31-Aug-2024 21:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-welcome.php:26
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-welcome.php(350): WPForms_Welcome->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-welcome.php on line 26
+[31-Aug-2024 21:53:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-welcome.php:26
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-welcome.php(350): WPForms_Welcome->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/admin/class-welcome.php on line 26

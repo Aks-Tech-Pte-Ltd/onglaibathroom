@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-29T13:23:27+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: exactmetrics-page-insights\n"
+
+#: exactmetrics-page-insights/exactmetrics-page-insights.php:244
+msgid "Enable the ExactMetrics PRO plugin to manage auto-updates"
+msgstr ""
+
+#: exactmetrics-page-insights/exactmetrics-page-insights.php:299
+msgid "Please install ExactMetrics Pro to use the ExactMetrics Page Insights addon"
+msgstr ""
+
+#: exactmetrics-page-insights/exactmetrics-page-insights.php:310
+msgid "Please install or update ExactMetrics Pro with version 7.5.1 or newer to use the ExactMetrics Page Insights addon"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:168
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:181
+msgid "Error"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:169
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:182
+msgid "There was an issue loading the report data. Please try again."
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:183
+msgid "Loading Page Insights..."
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:208
+msgid "Page Insights for:"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:213
+msgid "Close reports overlay"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:219
+msgid "Last 30 Days"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:221
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:312
+msgid "Yesterday"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:301
+msgid "Show Page Insights"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:308
+msgid "Last 30 days"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:324
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:361
+msgid "Time on Page"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:332
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:369
+msgid "Entrances"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:340
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:377
+msgid "Page Views"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:348
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:385
+msgid "Exits"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:394
+msgid "Oops! There are currently no page insights available for this page. Please wait ensure the post is published, if has been just published, please wait 24 hours while data is collected."
+msgstr ""
+
+#: exactmetrics-page-insights/includes/admin/class-exactmetrics-page-insights-admin.php:399
+msgid "Hide Page Insights"
+msgstr ""
+
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-ajax.php:52
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-ajax.php:160
+msgid "You can't view ExactMetrics reports because you are not licensed."
+msgstr ""
+
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-ajax.php:58
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-ajax.php:166
+msgid "You can't view ExactMetrics reports due to license key errors."
+msgstr ""
+
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-ajax.php:66
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-ajax.php:174
+msgid "You must authenticate with ExactMetrics before you can view reports."
+msgstr ""
+
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-ajax.php:70
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-ajax.php:76
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-ajax.php:178
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-ajax.php:184
+msgid "Unknown report. Try refreshing and retrying. Contact support if this issue persists."
+msgstr ""
+
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-ajax.php:108
+msgid "It looks like your site has a large number of pages, please wait while we process the data for you, this might take a couple minutes."
+msgstr ""
+
+#. Translators: Make version number bold and add a link to return to plugins page.
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-compatibility-check.php:260
+msgid "Sorry, but your current version of PHP does not meet the minimum required version %1$s%2$s%3$s or newer to run ExactMetrics Page Insights Addon properly. For information on how to upgrade your PHP version, contact your web host. %4$sClick here to return to the Dashboard%5$s."
+msgstr ""
+
+#. Translators: Make version number bold and add a link to articles page.
+#: exactmetrics-page-insights/includes/class-exactmetrics-page-insights-compatibility-check.php:293
+msgid "Sorry, but your WordPress version is not %1$s%2$s%3$s or newer. Please update your WordPress version and then activate ExactMetrics Page Insights Addon. For help on how to update your WordPress %4$sclick here%5$s."
+msgstr ""

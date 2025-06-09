@@ -1,0 +1,916 @@
+[07-Mar-2024 22:30:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[07-Mar-2024 22:30:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[07-Mar-2024 22:30:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Mar-2024 22:30:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[07-Mar-2024 22:30:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[07-Mar-2024 22:30:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[07-Mar-2024 22:30:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[07-Mar-2024 22:30:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[07-Mar-2024 22:30:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[07-Mar-2024 22:30:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[07-Mar-2024 22:30:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[07-Mar-2024 22:30:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[07-Mar-2024 22:30:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[07-Mar-2024 22:30:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[07-Mar-2024 22:30:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[07-Mar-2024 22:30:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[07-Mar-2024 22:30:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[07-Mar-2024 22:30:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[07-Mar-2024 22:30:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[07-Mar-2024 22:30:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[21-Mar-2024 14:05:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-May-2024 10:49:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[26-May-2024 10:49:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[26-May-2024 10:49:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-May-2024 10:49:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[26-May-2024 10:49:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[26-May-2024 10:49:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[26-May-2024 10:49:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[26-May-2024 10:49:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[26-May-2024 10:49:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[26-May-2024 10:49:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[26-May-2024 10:49:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[26-May-2024 10:49:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[26-May-2024 10:49:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[26-May-2024 10:49:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[26-May-2024 10:49:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[26-May-2024 10:49:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[26-May-2024 10:49:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[26-May-2024 10:49:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[26-May-2024 10:49:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[26-May-2024 10:49:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[07-Jun-2024 19:18:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[07-Jun-2024 19:18:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[07-Jun-2024 19:18:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Jun-2024 19:18:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[07-Jun-2024 19:18:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[07-Jun-2024 19:18:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[07-Jun-2024 19:18:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[07-Jun-2024 19:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[07-Jun-2024 19:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[07-Jun-2024 19:18:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[07-Jun-2024 19:18:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[07-Jun-2024 19:18:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[07-Jun-2024 19:18:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[07-Jun-2024 19:18:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[07-Jun-2024 19:18:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[07-Jun-2024 19:18:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[07-Jun-2024 19:18:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[07-Jun-2024 19:18:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[07-Jun-2024 19:18:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[07-Jun-2024 19:18:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[10-Jun-2024 10:44:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[10-Jun-2024 10:44:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[10-Jun-2024 10:44:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Jun-2024 10:44:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[10-Jun-2024 10:44:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[10-Jun-2024 10:44:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[10-Jun-2024 10:44:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[10-Jun-2024 10:44:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[10-Jun-2024 10:44:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[10-Jun-2024 10:44:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[10-Jun-2024 10:44:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[10-Jun-2024 10:44:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[10-Jun-2024 10:44:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[10-Jun-2024 10:44:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[10-Jun-2024 10:44:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[10-Jun-2024 10:44:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[10-Jun-2024 10:44:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[10-Jun-2024 10:44:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[10-Jun-2024 10:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[10-Jun-2024 10:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[20-Jun-2024 06:04:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[20-Jun-2024 06:04:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[20-Jun-2024 06:04:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Jun-2024 06:04:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[20-Jun-2024 06:04:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[20-Jun-2024 06:04:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[20-Jun-2024 06:04:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[20-Jun-2024 06:04:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[20-Jun-2024 06:04:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[20-Jun-2024 06:04:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[20-Jun-2024 06:04:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[20-Jun-2024 06:04:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[20-Jun-2024 06:04:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[20-Jun-2024 06:04:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[20-Jun-2024 06:04:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[20-Jun-2024 06:04:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[20-Jun-2024 06:04:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[20-Jun-2024 06:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[20-Jun-2024 06:05:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[20-Jun-2024 06:05:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[05-Jul-2024 13:28:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Jul-2024 17:07:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[15-Jul-2024 17:07:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[15-Jul-2024 17:07:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Jul-2024 17:07:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[15-Jul-2024 17:07:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[15-Jul-2024 17:07:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[15-Jul-2024 17:07:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[15-Jul-2024 17:07:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[15-Jul-2024 17:07:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[15-Jul-2024 17:07:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[15-Jul-2024 17:07:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[15-Jul-2024 17:07:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[15-Jul-2024 17:07:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[15-Jul-2024 17:07:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[15-Jul-2024 17:07:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[15-Jul-2024 17:07:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[15-Jul-2024 17:07:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[15-Jul-2024 17:07:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[15-Jul-2024 17:07:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[15-Jul-2024 17:07:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[08-Aug-2024 10:38:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Aug-2024 09:30:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Aug-2024 10:17:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[12-Aug-2024 10:17:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[12-Aug-2024 10:18:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Aug-2024 10:18:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[12-Aug-2024 10:18:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[12-Aug-2024 10:18:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[12-Aug-2024 10:18:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[12-Aug-2024 10:18:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[12-Aug-2024 10:18:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[12-Aug-2024 10:18:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[12-Aug-2024 10:18:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[12-Aug-2024 10:18:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[12-Aug-2024 10:18:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[12-Aug-2024 10:18:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[12-Aug-2024 10:18:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[12-Aug-2024 10:18:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[12-Aug-2024 10:18:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[12-Aug-2024 10:18:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[12-Aug-2024 10:18:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[12-Aug-2024 10:18:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[13-Aug-2024 19:13:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Aug-2024 06:37:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Aug-2024 12:59:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[23-Aug-2024 12:59:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[23-Aug-2024 12:59:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Aug-2024 12:59:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[23-Aug-2024 12:59:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[23-Aug-2024 12:59:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[23-Aug-2024 12:59:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[23-Aug-2024 12:59:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[23-Aug-2024 12:59:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[23-Aug-2024 12:59:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[23-Aug-2024 12:59:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[23-Aug-2024 12:59:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[23-Aug-2024 12:59:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[23-Aug-2024 12:59:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[23-Aug-2024 12:59:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[23-Aug-2024 12:59:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[23-Aug-2024 12:59:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[23-Aug-2024 12:59:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[23-Aug-2024 12:59:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[23-Aug-2024 12:59:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[26-Aug-2024 14:18:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Aug-2024 23:33:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Aug-2024 05:32:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[28-Aug-2024 05:32:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[28-Aug-2024 05:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Aug-2024 05:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[28-Aug-2024 05:32:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[28-Aug-2024 05:32:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[28-Aug-2024 05:32:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[28-Aug-2024 05:32:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[28-Aug-2024 05:32:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[28-Aug-2024 05:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[28-Aug-2024 05:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[28-Aug-2024 05:32:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[28-Aug-2024 05:32:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[28-Aug-2024 05:32:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[28-Aug-2024 05:32:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[28-Aug-2024 05:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[28-Aug-2024 05:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[28-Aug-2024 05:32:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[28-Aug-2024 05:32:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[28-Aug-2024 05:32:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[03-Sep-2024 02:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Sep-2024 08:15:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[20-Sep-2024 08:15:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[20-Sep-2024 08:15:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Sep-2024 08:15:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[20-Sep-2024 08:15:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[20-Sep-2024 08:15:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[20-Sep-2024 08:15:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[20-Sep-2024 08:15:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[20-Sep-2024 08:15:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[20-Sep-2024 08:15:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[20-Sep-2024 08:15:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[20-Sep-2024 08:15:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[20-Sep-2024 08:15:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[20-Sep-2024 08:15:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[20-Sep-2024 08:15:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[20-Sep-2024 08:15:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[20-Sep-2024 08:15:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[20-Sep-2024 08:15:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[20-Sep-2024 08:15:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[20-Sep-2024 08:15:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[27-Sep-2024 23:28:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[27-Sep-2024 23:28:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[27-Sep-2024 23:28:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Sep-2024 23:28:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[27-Sep-2024 23:28:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[27-Sep-2024 23:28:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[27-Sep-2024 23:28:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[27-Sep-2024 23:28:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[27-Sep-2024 23:28:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[27-Sep-2024 23:28:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[27-Sep-2024 23:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[27-Sep-2024 23:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[27-Sep-2024 23:28:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[27-Sep-2024 23:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[27-Sep-2024 23:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[27-Sep-2024 23:28:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[27-Sep-2024 23:28:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[27-Sep-2024 23:29:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[27-Sep-2024 23:29:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[27-Sep-2024 23:29:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17

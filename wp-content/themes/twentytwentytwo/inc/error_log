@@ -1,0 +1,4 @@
+[07-Mar-2024 22:41:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135

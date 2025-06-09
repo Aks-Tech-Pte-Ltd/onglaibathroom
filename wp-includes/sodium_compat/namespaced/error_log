@@ -1,0 +1,176 @@
+[08-Apr-2024 10:11:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[08-Apr-2024 10:11:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[08-Apr-2024 10:11:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[08-Apr-2024 10:11:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[08-Apr-2024 10:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[08-Apr-2024 10:14:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[08-Apr-2024 10:17:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[08-Apr-2024 10:17:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[16-Aug-2024 03:46:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[16-Aug-2024 03:46:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[16-Aug-2024 03:46:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[16-Aug-2024 03:46:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[16-Aug-2024 03:47:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[16-Aug-2024 03:47:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[16-Aug-2024 03:48:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[16-Aug-2024 03:48:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[28-Aug-2024 19:18:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[28-Aug-2024 19:18:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[28-Aug-2024 19:20:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[28-Aug-2024 19:20:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[01-Sep-2024 00:19:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[01-Sep-2024 00:19:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[01-Sep-2024 00:19:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[01-Sep-2024 00:19:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[01-Sep-2024 00:22:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[01-Sep-2024 00:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[01-Sep-2024 00:24:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[01-Sep-2024 00:24:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[09-Sep-2024 03:04:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[09-Sep-2024 03:04:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[09-Sep-2024 03:04:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[09-Sep-2024 03:04:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[09-Sep-2024 03:09:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[09-Sep-2024 03:09:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[09-Sep-2024 03:12:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[09-Sep-2024 03:12:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[21-Sep-2024 06:48:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[21-Sep-2024 06:48:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[21-Sep-2024 06:48:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[21-Sep-2024 06:48:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[21-Sep-2024 06:48:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[21-Sep-2024 06:48:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[21-Sep-2024 06:48:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[21-Sep-2024 06:48:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4

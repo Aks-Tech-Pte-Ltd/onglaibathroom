@@ -1,0 +1,80 @@
+[08-Apr-2024 10:29:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[08-Apr-2024 10:29:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[08-Apr-2024 10:36:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[08-Apr-2024 10:36:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[16-Aug-2024 03:50:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[16-Aug-2024 03:50:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[16-Aug-2024 03:52:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[16-Aug-2024 03:52:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[01-Sep-2024 00:34:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[01-Sep-2024 00:34:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[01-Sep-2024 00:39:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[01-Sep-2024 00:40:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[09-Sep-2024 03:29:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[09-Sep-2024 03:29:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[09-Sep-2024 03:37:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[09-Sep-2024 03:37:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[21-Sep-2024 06:49:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[21-Sep-2024 06:49:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[21-Sep-2024 06:50:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[21-Sep-2024 06:50:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10

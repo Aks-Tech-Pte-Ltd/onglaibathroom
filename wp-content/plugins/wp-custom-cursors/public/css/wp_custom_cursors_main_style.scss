@@ -1,0 +1,679 @@
+/*!
+ * WP Custom Cursors | WordPress Cursor Plugin
+ * Author: Web_Trendy
+ * Copyright 2020 - 2022 © Web_Trendy (https://codecanyon.net/user/web_trendy)
+ * License: Envato (CodeCanyon) Licence
+ * License URI: http://codecanyon.net/legal/licence
+ *
+ * "Open your hands if you want to be held." -Rumi
+ *
+ */ 
+
+
+
+
+ /*------------------------------------------------------------------
+[Table of contents]
+
+1.0 Variables
+2.0 General Styles
+3.0 Cursor Styles 
+4.0 Animations
+4.0 Media Queries
+-------------------------------------------------------------------*/
+
+
+
+
+/*--------------------------------------------------------------
+1.0 Variables
+--------------------------------------------------------------*/
+	$transitionProperty: all;
+	$transitionDuration: 100ms;
+	$transitionTiming: ease-out;
+
+
+	body {
+		&.iframe-hover {
+			.wpcc-cursor {
+				display: none;
+			}
+		}
+	}
+
+/*--------------------------------------------------------------
+2.0 General Styles
+--------------------------------------------------------------*/
+
+	.no-transition {
+		.cursor-el1, .cursor-el2 {
+			transition: none !important;
+		}
+	}
+
+	.no-cursor {
+		cursor: none;
+		a {
+			cursor: none;
+		}
+	}
+	.default-cursor {
+		cursor: default;
+	}
+
+	.wpcc-cursor {
+		--top: 0;
+		--left: 0;
+		--cursor-width: 30px;
+		--img-width: 30px;
+		--color: #000000;
+		--blending-mode: normal;
+		--default-cursor-normal: 'initial';
+		--default-cursor-link: 'pointer';
+
+		--click-point-x: -50%;
+		--click-point-y: -50%;
+
+		&:not(.active) {
+			display: none;
+		}
+		div {
+			position: fixed !important;
+			pointer-events: none;
+			z-index: 99999999999;
+			box-sizing: border-box;
+			mix-blend-mode: var(--blending-mode);
+		}
+		
+	}
+
+/*--------------------------------------------------------------
+3.0 Cusror Styles
+--------------------------------------------------------------*/
+
+	/*Image Cursor*/
+	.cursor-image {
+		.cursor-el1 {
+			width: auto;
+			height: auto;
+			top: 0;
+			left: 0;
+			img {
+				display: block;
+				width: var(--cursor-width) !important;
+				top: 0;
+				left: 0;
+				height: auto !important;
+				object-fit: contain !important;
+				transform: translate(var(--click-point-x), var(--click-point-y));
+			}
+		}
+		.cursor-el2 {
+			display: none;
+		}
+	}
+
+	/*Text Cursor*/
+	.cursor-text {
+		.cursor-el1 {
+			width: auto;
+			height: auto;
+			top: 0;
+			left: 0;
+			svg {
+				width: var(--cursor-width) !important;
+				margin-top: -50%;
+				margin-left: -50%;
+				animation: 10000ms spin infinite;
+				animation-fill-mode: backwards;
+				animation-timing-function: linear;
+			}
+			text {
+				text-transform: uppercase;
+				word-spacing: 32px;
+				font-weight: bold;
+				fill: var(--color);
+			}
+		}
+		.cursor-el2 {
+			display: none;
+		}
+	}
+
+	
+
+	/*Cursor 1*/
+	.cursor-1 {
+		.cursor-el1 {
+			width: var(--cursor-width);
+			height: var(--cursor-width);
+			border: calc(var(--cursor-width)/25) solid var(--color);
+			border-radius: 50%;
+			top: calc(var(--cursor-width)/-2);
+			left: calc(var(--cursor-width)/-2);
+			transition: $transitionProperty $transitionDuration $transitionTiming;
+		}
+		.cursor-el2 {
+			width: calc(var(--cursor-width)/5);
+			height: calc(var(--cursor-width)/5);
+			border-radius: 50%;
+			background-color: var(--color);
+			top: calc(var(--cursor-width)/-10);
+			left: calc(var(--cursor-width)/-10);
+			animation: c1-anim-reverse $transitionDuration*2 $transitionTiming;
+		} 
+		&.link-hover {
+			.cursor-el1 {
+				width: calc(var(--cursor-width)/1.5);
+				height: calc(var(--cursor-width)/1.5);
+				top: calc(var(--cursor-width)/-3);
+				left: calc(var(--cursor-width)/-3);
+				opacity: 0;
+			}
+			.cursor-el2 {
+				animation: c1-anim $transitionDuration*2 $transitionTiming;
+				animation-fill-mode: forwards;
+			}
+		}
+		&.input-hover {
+			display: none;
+		}
+	}
+
+	/*Cursor 2*/
+	.cursor-2 {
+		.cursor-el2 {
+			width: calc(var(--cursor-width)/5);
+			height: calc(var(--cursor-width)/5);
+			border-radius: 50%;
+			background-color: var(--color);
+			top: calc(var(--cursor-width)/-10);
+			left: calc(var(--cursor-width)/-10);
+			animation: c6-anim-reverse $transitionDuration*2 $transitionTiming;
+		}
+		&.link-hover {
+			.cursor-el2 {
+				animation: c6-anim $transitionDuration*2 $transitionTiming;
+				animation-fill-mode: forwards;
+			}
+		}
+		&.input-hover {
+			display: none;
+		}
+	}
+
+	/*Cursor 3*/
+	.cursor-3 {
+		.cursor-el1 {
+			width: var(--cursor-width);
+			height: var(--cursor-width);
+			background-color: var(--color);
+			opacity: 0.5;
+			border-radius: 50%;
+			top: calc(var(--cursor-width)/-2);
+			left: calc(var(--cursor-width)/-2);
+			transition: $transitionProperty $transitionDuration $transitionTiming;
+		}
+		.cursor-el2 {
+			width: calc(var(--cursor-width)/5);
+			height: calc(var(--cursor-width)/5);
+			border-radius: 50%;
+			background-color: var(--color);
+			top: calc(var(--cursor-width)/-10);
+			left: calc(var(--cursor-width)/-10);
+			animation: c1-anim-reverse $transitionDuration*2 $transitionTiming;
+		}
+		&.link-hover {
+			.cursor-el1 {
+				width: calc(var(--cursor-width)/1.5);
+				height: calc(var(--cursor-width)/1.5);
+				top: calc(var(--cursor-width)/-3);
+				left: calc(var(--cursor-width)/-3);
+				opacity: 0;
+			}
+			.cursor-el2 {
+				animation: c1-anim $transitionDuration*2 $transitionTiming;
+				animation-fill-mode: forwards;
+			}
+		}
+		&.input-hover {
+			display: none;
+		}
+	}
+
+	/*Cursor 4*/
+	.cursor-4 {
+		.cursor-el1 {
+			width: calc(var(--cursor-width)/5);
+			height: calc(var(--cursor-width)/5);
+			border-radius: 50%;
+			background-color: var(--color);
+			top: calc(var(--cursor-width)/-10);
+			left: calc(var(--cursor-width)/-10);
+			animation: c6-anim-reverse $transitionDuration*2 $transitionTiming;
+		}
+		.cursor-el2 {
+			width: calc(var(--cursor-width)/5);
+			height: calc(var(--cursor-width)/5);
+			border-radius: 50%;
+			opacity: 0.7;
+			background-color: var(--color);
+			top: calc(var(--cursor-width)/-10);
+			left: calc(var(--cursor-width)/-10);
+			transition: $transitionProperty $transitionDuration $transitionTiming;
+			/*animation: c6-anim-reverse $transitionDuration*2 $transitionTiming;*/
+		}
+		&.link-hover {
+			.cursor-el1 {
+				animation: c6-anim $transitionDuration*2 $transitionTiming;
+				animation-fill-mode: forwards;
+			}
+		}
+		&.input-hover {
+			display: none;
+		}
+	}
+
+	/*Cursor 5*/
+	.cursor-5 {
+		.cursor-el1 {
+			width: calc(var(--cursor-width)/1.5);
+			height: calc(var(--cursor-width)/1.5);
+			border: calc(var(--cursor-width)/15) solid var(--color);
+			border-radius: 50%;
+			top: calc(var(--cursor-width)/-3);
+			left: calc(var(--cursor-width)/-3);
+			animation: c5-anim-reverse $transitionDuration*2 $transitionTiming;
+		}
+		&.link-hover {
+			.cursor-el1 {
+				animation: c5-anim $transitionDuration*2 $transitionTiming;
+				animation-fill-mode: forwards;
+			}
+		}
+		&.input-hover {
+			display: none;
+		}
+	}
+
+	/*Cursor 6*/
+	.cursor-6 {
+		.cursor-el1 {
+			width: calc(var(--cursor-width)/1.5);
+			height: calc(var(--cursor-width)/1.5);
+			border: calc(var(--cursor-width)/25) solid var(--color);
+			border-radius: 50%;
+			top: calc(var(--cursor-width)/-3);
+			left: calc(var(--cursor-width)/-3);
+			transition: $transitionProperty $transitionDuration $transitionTiming;
+			animation: c6-anim-reverse $transitionDuration*2 $transitionTiming;
+		}
+		.cursor-el2 {
+			width: calc(var(--cursor-width)/3);
+			height: calc(var(--cursor-width)/3);
+			border-radius: 50%;
+			background-color: var(--color);
+			top: calc(var(--cursor-width)/-6);
+			left: calc(var(--cursor-width)/-6);
+		}
+		&.link-hover {
+			.cursor-el1 {
+				animation: c6-anim $transitionDuration*2 $transitionTiming;
+				animation-fill-mode: forwards;
+			}
+		}
+		&.input-hover {
+			display: none;
+		}
+	}
+
+	/*Cursor 7*/
+	.cursor-7 {
+		.cursor-el1 {
+			width: calc(var(--cursor-width)/1.5);
+			height: calc(var(--cursor-width)/1.5);
+			border: calc(var(--cursor-width)/15) solid var(--color);
+			border-radius: 50%;
+			top: calc(var(--cursor-width)/-3);
+			left: calc(var(--cursor-width)/-3);
+			animation: c5-anim-reverse $transitionDuration*2 $transitionTiming;
+		}
+		.cursor-el2 {
+			width: calc(var(--cursor-width)/1.5);
+			height: calc(var(--cursor-width)/1.5);
+			border: calc(var(--cursor-width)/15) solid var(--color);
+			border-radius: 50%;
+			top: calc(var(--cursor-width)/-3);
+			left: calc(var(--cursor-width)/-3);
+			opacity: 0.5;
+			transition: $transitionProperty $transitionDuration $transitionTiming;
+		}
+		&.link-hover {
+			.cursor-el1 {
+				animation: c5-anim $transitionDuration*2 $transitionTiming;
+				animation-fill-mode: forwards;
+			}
+			.cursor-el2 {
+				opacity: 0;
+			}
+		}
+		&.input-hover {
+			display: none;
+		}
+	}
+
+	/*Cursor 8*/
+	.cursor-8 {
+		.cursor-el1 {
+			width: calc(var(--cursor-width)/1.5);
+			height: calc(var(--cursor-width)/1.5);
+			border: calc(var(--cursor-width)/15) solid var(--color);
+			border-radius: 50%;
+			top: calc(var(--cursor-width)/-3);
+			left: calc(var(--cursor-width)/-3);
+			animation: c5-anim-reverse $transitionDuration*2 $transitionTiming;
+		}
+		.cursor-el2 {
+			width: calc(var(--cursor-width)/1.5);
+			height: calc(var(--cursor-width)/1.5);
+			background-color: var(--color);
+			border-radius: 50%;
+			top: calc(var(--cursor-width)/-3);
+			left: calc(var(--cursor-width)/-3);
+			opacity: 0.5;
+			transition: $transitionProperty $transitionDuration $transitionTiming;
+		}
+		&.link-hover {
+			.cursor-el1 {
+				animation: c5-anim $transitionDuration*2 $transitionTiming;
+				animation-fill-mode: forwards;
+			}
+			.cursor-el2 {
+				opacity: 0;
+			}
+		}
+		&.input-hover {
+			display: none;
+		}
+	}
+
+	
+
+	
+
+
+/*--------------------------------------------------------------
+4.0 Animations
+--------------------------------------------------------------*/
+
+	@keyframes c1-anim {
+		to {
+			width: calc(var(--cursor-width)/1.1);
+			height: calc(var(--cursor-width)/1.1);
+			top: calc(var(--cursor-width)/-2.2);
+			left: calc(var(--cursor-width)/-2.2);
+			opacity: 0.3;
+		}
+	}
+
+	@keyframes c1-anim-reverse {
+		from {
+			width: calc(var(--cursor-width)/1.1);
+			height: calc(var(--cursor-width)/1.1);
+			top: calc(var(--cursor-width)/-2.2);
+			left: calc(var(--cursor-width)/-2.2);
+			opacity: 0.3;
+		}
+
+		to {
+			width: calc(var(--cursor-width)/5);
+			height: calc(var(--cursor-width)/5);
+			top: calc(var(--cursor-width)/-10);
+			left: calc(var(--cursor-width)/-10);
+		}
+	}
+
+	@keyframes c4-anim {
+		to {
+			width: calc(var(--cursor-width)/1.5);
+			height: calc(var(--cursor-width)/1.5);
+			top: calc(var(--cursor-width)/-3);
+			left: calc(var(--cursor-width)/-3);
+			background-color: var(--color);
+			opacity: 0.3;
+		}
+	}
+
+	@keyframes c4-anim-reverse {
+		from {
+			width: calc(var(--cursor-width)/1.5);
+			height: calc(var(--cursor-width)/1.5);
+			top: calc(var(--cursor-width)/-3);
+			left: calc(var(--cursor-width)/-3);
+			background-color: var(--color);
+			opacity: 0.3;
+		}
+
+		to {
+			width: var(--cursor-width);
+			height: var(--cursor-width);
+			top: calc(var(--cursor-width)/-2);
+			left: calc(var(--cursor-width)/-2);
+			background-color: transparent;
+			opacity: 1;
+		}
+	}
+
+	@keyframes c5-anim {
+		50% {
+			width: calc(var(--cursor-width)/2.5);
+			height: calc(var(--cursor-width)/2.5);
+			top: calc(var(--cursor-width)/-5);
+			left: calc(var(--cursor-width)/-5);
+			background-color: var(--color);
+		}
+		100% {
+			width: calc(var(--cursor-width)/0.5);
+			height: calc(var(--cursor-width)/0.5);
+			top: calc(var(--cursor-width)/-1);
+			left: calc(var(--cursor-width)/-1);
+			background-color: var(--color);
+			opacity: 0.3;
+		}
+	}
+
+	@keyframes c5-anim-reverse {
+		from {
+			width: calc(var(--cursor-width)/0.5);
+			height: calc(var(--cursor-width)/0.5);
+			top: calc(var(--cursor-width)/-1);
+			left: calc(var(--cursor-width)/-1);
+			background-color: var(--color);
+			opacity: 0.3;
+		}
+
+		to {
+			width: var(--cursor-width);
+			height: var(--cursor-width);
+			top: calc(var(--cursor-width)/-2);
+			left: calc(var(--cursor-width)/-2);
+		}
+	}
+
+	@keyframes c6-anim {
+		to {
+			width: calc(var(--cursor-width)/5);
+			height: calc(var(--cursor-width)/5);
+			top: calc(var(--cursor-width)/-10);
+			left: calc(var(--cursor-width)/-10);
+			border-width: calc(var(--cursor-width)/15);
+		}
+	}
+
+	@keyframes c6-anim-reverse {
+		from {
+			width: calc(var(--cursor-width)/5);
+			height: calc(var(--cursor-width)/5);
+			top: calc(var(--cursor-width)/-10);
+			left: calc(var(--cursor-width)/-10);
+			border-width: calc(var(--cursor-width)/15);
+		}
+
+		to {
+			width: var(--cursor-width);
+			height: var(--cursor-width);
+			border: calc(var(--cursor-width)/25) solid var(--color);
+			border-radius: 50%;
+			top: calc(var(--cursor-width)/-2);
+			left: calc(var(--cursor-width)/-2);
+		}
+	}
+
+
+	@keyframes c-scale {
+		to {
+			width: calc(var(--cursor-width)*3);
+			height: calc(var(--cursor-width)*3);
+			top: calc(var(--cursor-width)*-1.5);
+			left: calc(var(--cursor-width)*-1.5);
+			opacity: 1;
+		}
+	}
+
+	@keyframes c-scale-reverse {
+		from {
+			width: calc(var(--cursor-width)*3);
+			height: calc(var(--cursor-width)*3);
+			top: calc(var(--cursor-width)*-1.5);
+			left: calc(var(--cursor-width)*-1.5);
+			opacity: 1;
+		}
+
+		to {
+			width: calc(var(--cursor-width)/5);
+			height: calc(var(--cursor-width)/5);
+			top: calc(var(--cursor-width)/-10);
+			left: calc(var(--cursor-width)/-10);
+		}
+	}
+
+	@keyframes spin {
+	    from { transform: rotate(360deg); }
+	    to { transform: rotate(0); }
+	}
+
+/*--------------------------------------------------------------
+5.0 Media Queries
+--------------------------------------------------------------*/
+	/* Mobile ---------- */
+	@media only screen and (min-width: 320px) and (max-width: 767px) {
+		.wpcc-cursor.hide-mobile {
+			display: none;
+			opacity: 0;
+			visibility: hidden;
+		}
+	}
+
+	/* iPads (portrait and landscape) ----------- */
+	@media only screen and (min-width : 768px) and (max-width : 1024px) {
+		.wpcc-cursor.hide-tablet {
+			display: none;
+			opacity: 0;
+			visibility: hidden;
+		}
+	}		
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+2.0 Hover Cursor Styles
+--------------------------------------------------------------*/
+	
+	.hover-cursor {
+		--hc-bgcolor: #ff3c38;
+		--hc-width: 50px;
+		pointer-events: none;
+		&:not(.hc-1) {
+			.hover-cursor-text {
+				display: none;
+			}
+		}
+		display: inline-flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		background-color: var(--hc-bgcolor);
+		width: calc( var(--hc-width) / 2 );
+		height: calc( var(--hc-width) / 2 );
+		border-radius: 50%;
+		position: fixed !important;
+		pointer-events: none;
+		z-index: 99999999999;
+		top: calc( var(--hc-width) * -0.25);
+		left: calc( var(--hc-width) * -0.25);
+		opacity: 0;
+		transition: $transitionProperty $transitionDuration*2 $transitionTiming;
+		.hover-cursor-icon {
+			display: flex;
+			transform: scale(1.5);
+			opacity: 0;
+			transition: $transitionProperty $transitionDuration*3 $transitionTiming;
+			transition-delay: $transitionDuration;
+			svg, img {
+				width: calc( var(--hc-width) / 3 );
+			}
+		}
+		.hover-cursor-text {
+		    font-size: calc( var(--hc-width) / 7 );
+		    line-height: 1;
+		    padding-top: 5px;
+		    transform: translateY(10px);
+			opacity: 0;
+			transition: $transitionProperty $transitionDuration*3 $transitionTiming;
+			transition-delay: $transitionDuration;
+		}
+		&.active {
+			width: var(--hc-width);
+			height: var(--hc-width);
+			top: calc( var(--hc-width) * -0.5);
+			left: calc( var(--hc-width) * -0.5);
+			opacity: 1;
+			.hover-cursor-icon {
+				transform: scale(1);
+				opacity: 1;
+			}
+			.hover-cursor-text {
+				transform: translateY(0);
+				opacity: 1;
+			}
+		}
+		&.hc-1 {
+			.hover-cursor-icon {
+				transform: translateY(-10px);
+				svg, img {
+					width: calc( var(--hc-width) / 4 );
+				}
+			}
+			&.active {
+				.hover-cursor-icon {
+					transform: translateY(0);
+				}
+			}
+		}
+	}
+
+/* :) Let's meke internet BEAUTIFUL*/
+/*
+ _       __     __       ______                    __
+| |     / /__  / /_     /_  __/_______  ____  ____/ /_  __
+| | /| / / _ \/ __ \     / / / ___/ _ \/ __ \/ __  / / / /
+| |/ |/ /  __/ /_/ /    / / / /  /  __/ / / / /_/ / /_/ /
+|__/|__/\___/_.___/    /_/ /_/   \___/_/ /_/\__,_/\__, /
+                                                 /____/
+*/

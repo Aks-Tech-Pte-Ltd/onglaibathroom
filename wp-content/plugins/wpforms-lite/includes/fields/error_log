@@ -1,0 +1,88 @@
+[31-Aug-2024 21:54:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-checkbox.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-checkbox.php on line 8
+[31-Aug-2024 21:54:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-checkbox.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-checkbox.php on line 8
+[31-Aug-2024 21:55:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-email.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-email.php on line 8
+[31-Aug-2024 21:55:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-email.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-email.php on line 8
+[31-Aug-2024 21:55:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-gdpr-checkbox.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-gdpr-checkbox.php on line 8
+[31-Aug-2024 21:55:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-gdpr-checkbox.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-gdpr-checkbox.php on line 8
+[31-Aug-2024 21:55:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-internal-information.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-internal-information.php on line 8
+[31-Aug-2024 21:55:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-internal-information.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-internal-information.php on line 8
+[31-Aug-2024 21:55:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-name.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-name.php on line 8
+[31-Aug-2024 21:55:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-name.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-name.php on line 8
+[31-Aug-2024 21:55:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-number-slider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-number-slider.php on line 8
+[31-Aug-2024 21:55:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-number-slider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-number-slider.php on line 8
+[31-Aug-2024 21:55:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-number.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-number.php on line 8
+[31-Aug-2024 21:55:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-number.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-number.php on line 8
+[31-Aug-2024 21:55:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-radio.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-radio.php on line 8
+[31-Aug-2024 21:55:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-radio.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-radio.php on line 8
+[31-Aug-2024 21:55:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-select.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-select.php on line 8
+[31-Aug-2024 21:55:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-select.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-select.php on line 8
+[31-Aug-2024 21:55:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-text.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-text.php on line 8
+[31-Aug-2024 21:55:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-text.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-text.php on line 8
+[31-Aug-2024 21:55:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-textarea.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-textarea.php on line 8
+[31-Aug-2024 21:55:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Field' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-textarea.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/fields/class-textarea.php on line 8

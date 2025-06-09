@@ -1,0 +1,160 @@
+[08-Apr-2024 10:37:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[08-Apr-2024 10:37:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[08-Apr-2024 10:38:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[08-Apr-2024 10:38:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[08-Apr-2024 10:40:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[08-Apr-2024 10:40:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[08-Apr-2024 10:40:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[08-Apr-2024 10:41:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[16-Aug-2024 03:52:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[16-Aug-2024 03:52:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[16-Aug-2024 03:52:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[16-Aug-2024 03:52:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[16-Aug-2024 03:53:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[16-Aug-2024 03:53:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[16-Aug-2024 03:53:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[16-Aug-2024 03:53:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[01-Sep-2024 00:41:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[01-Sep-2024 00:41:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[01-Sep-2024 00:41:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[01-Sep-2024 00:41:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[01-Sep-2024 00:43:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[01-Sep-2024 00:43:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[01-Sep-2024 00:44:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[01-Sep-2024 00:44:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[09-Sep-2024 03:40:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[09-Sep-2024 03:40:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[09-Sep-2024 03:40:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[09-Sep-2024 03:40:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[09-Sep-2024 03:45:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[09-Sep-2024 03:45:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[09-Sep-2024 03:45:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[09-Sep-2024 03:45:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[21-Sep-2024 06:50:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[21-Sep-2024 06:50:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[21-Sep-2024 06:50:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[21-Sep-2024 06:50:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[21-Sep-2024 06:50:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[21-Sep-2024 06:50:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[21-Sep-2024 06:51:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[21-Sep-2024 06:51:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10

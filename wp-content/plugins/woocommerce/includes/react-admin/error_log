@@ -1,0 +1,24 @@
+[16-Aug-2024 02:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php on line 125
+[16-Aug-2024 02:07:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php on line 125
+[31-Aug-2024 20:50:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php on line 125
+[31-Aug-2024 20:50:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php on line 125
+[08-Sep-2024 10:58:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php on line 125
+[08-Sep-2024 10:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php on line 125

@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-29T14:32:18+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: exactmetrics-google-optimize\n"
+
+#: exactmetrics-google-optimize/exactmetrics-google-optimize.php:194
+msgid "Enable the ExactMetrics PRO plugin to manage auto-updates"
+msgstr ""
+
+#: exactmetrics-google-optimize/exactmetrics-google-optimize.php:258
+msgid "Please install ExactMetrics Pro to use the ExactMetrics Google Optimize addon"
+msgstr ""
+
+#: exactmetrics-google-optimize/exactmetrics-google-optimize.php:274
+msgid "Please install or update ExactMetrics Pro version 7.4 or newer to use the ExactMetrics Google Optimize addon"
+msgstr ""
+
+#: exactmetrics-google-optimize/includes/admin/ajax.php:27
+msgid "Homepage"
+msgstr ""
+
+#. Translators: Make version number bold and add a link to return to plugins page.
+#: exactmetrics-google-optimize/includes/compatibility-check.php:260
+msgid "Sorry, but your current version of PHP does not meet the minimum required version %1$s%2$s%3$s or newer to run ExactMetrics Google Optimize Addon properly. For information on how to upgrade your PHP version, contact your web host. %4$sClick here to return to the Dashboard%5$s."
+msgstr ""
+
+#. Translators: Make version number bold and add a link to articles page.
+#: exactmetrics-google-optimize/includes/compatibility-check.php:293
+msgid "Sorry, but your WordPress version is not %1$s%2$s%3$s or newer. Please update your WordPress version and then activate ExactMetrics Google Optimize Addon. For help on how to update your WordPress %4$sclick here%5$s."
+msgstr ""

@@ -1,0 +1,16 @@
+[16-Aug-2024 02:32:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Admin\DeprecatedClassFacade' not found in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Admin/Loader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Admin/Loader.php on line 14
+[16-Aug-2024 02:32:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Admin\DeprecatedClassFacade' not found in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Admin/Loader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Admin/Loader.php on line 14
+[31-Aug-2024 21:23:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Admin\DeprecatedClassFacade' not found in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Admin/Loader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Admin/Loader.php on line 14
+[31-Aug-2024 21:23:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Admin\DeprecatedClassFacade' not found in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Admin/Loader.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Admin/Loader.php on line 14

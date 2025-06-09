@@ -1,0 +1,80 @@
+[08-Apr-2024 10:28:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Apr-2024 10:28:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Apr-2024 10:33:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Apr-2024 10:34:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[16-Aug-2024 03:50:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[16-Aug-2024 03:50:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[16-Aug-2024 03:51:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[16-Aug-2024 03:51:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Sep-2024 00:33:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Sep-2024 00:33:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Sep-2024 00:37:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Sep-2024 00:37:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[09-Sep-2024 03:28:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[09-Sep-2024 03:28:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[09-Sep-2024 03:35:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[09-Sep-2024 03:35:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[21-Sep-2024 06:49:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[21-Sep-2024 06:49:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[21-Sep-2024 06:50:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[21-Sep-2024 06:50:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12

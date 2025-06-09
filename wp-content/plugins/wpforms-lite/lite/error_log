@@ -1,0 +1,30 @@
+[16-Aug-2024 02:48:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php:22
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php(1354): WPForms_Lite->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php on line 22
+[16-Aug-2024 02:48:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php:22
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php(1354): WPForms_Lite->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php on line 22
+[31-Aug-2024 21:57:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php:22
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php(1354): WPForms_Lite->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php on line 22
+[31-Aug-2024 21:57:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php:22
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php(1354): WPForms_Lite->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php on line 22
+[31-Aug-2024 22:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php:22
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php(1354): WPForms_Lite->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php on line 22
+[31-Aug-2024 22:15:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php:22
+Stack trace:
+#0 /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php(1354): WPForms_Lite->__construct()
+#1 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php on line 22

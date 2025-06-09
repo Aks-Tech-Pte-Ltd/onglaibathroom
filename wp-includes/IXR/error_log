@@ -1,0 +1,120 @@
+[07-Mar-2024 22:26:38 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[07-Mar-2024 22:26:39 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[24-Mar-2024 23:37:48 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[24-Mar-2024 23:37:51 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[26-May-2024 10:48:06 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[26-May-2024 10:48:07 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[07-Jun-2024 19:16:59 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[07-Jun-2024 19:17:01 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[07-Jun-2024 22:11:24 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[07-Jun-2024 22:11:53 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[10-Jun-2024 10:43:32 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[10-Jun-2024 10:43:34 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[20-Jun-2024 06:03:13 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[20-Jun-2024 06:03:16 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[15-Jul-2024 17:03:21 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[15-Jul-2024 17:03:22 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[30-Jul-2024 00:08:32 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[30-Jul-2024 00:08:47 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[12-Aug-2024 10:16:29 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[12-Aug-2024 10:16:31 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[23-Aug-2024 12:58:15 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[23-Aug-2024 12:58:17 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[28-Aug-2024 05:31:35 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[28-Aug-2024 05:31:37 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[08-Sep-2024 06:05:55 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[08-Sep-2024 06:05:55 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[20-Sep-2024 08:14:32 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[20-Sep-2024 08:14:33 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[27-Sep-2024 23:26:22 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[27-Sep-2024 23:26:27 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

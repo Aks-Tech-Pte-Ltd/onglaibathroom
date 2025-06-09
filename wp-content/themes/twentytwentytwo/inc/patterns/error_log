@@ -1,0 +1,528 @@
+[26-May-2024 10:50:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php on line 6
+[26-May-2024 10:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php on line 6
+[26-May-2024 10:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php on line 6
+[26-May-2024 10:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php on line 6
+[26-May-2024 10:50:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php on line 6
+[26-May-2024 10:50:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php on line 6
+[26-May-2024 10:50:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php on line 6
+[26-May-2024 10:50:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php on line 6
+[26-May-2024 10:50:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php on line 6
+[26-May-2024 10:50:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php on line 6
+[26-May-2024 10:50:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php on line 6
+[26-May-2024 10:50:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php on line 6
+[26-May-2024 10:50:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php on line 6
+[26-May-2024 10:50:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php on line 6
+[26-May-2024 10:50:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php on line 6
+[26-May-2024 10:50:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php on line 6
+[26-May-2024 10:50:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php on line 6
+[26-May-2024 10:50:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php on line 6
+[26-May-2024 10:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php on line 6
+[26-May-2024 10:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php on line 6
+[26-May-2024 10:50:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php on line 6
+[26-May-2024 10:50:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php on line 6
+[26-May-2024 10:50:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php on line 6
+[26-May-2024 10:50:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php on line 6
+[26-May-2024 10:50:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo-black-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo-black-background.php on line 6
+[26-May-2024 10:50:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php on line 6
+[26-May-2024 10:50:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-title-navigation-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-title-navigation-social.php on line 6
+[26-May-2024 10:50:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php on line 6
+[26-May-2024 10:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php on line 6
+[26-May-2024 10:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php on line 6
+[26-May-2024 10:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php on line 6
+[26-May-2024 10:50:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-gray-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-gray-background.php on line 6
+[26-May-2024 10:50:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-offset-tagline.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-offset-tagline.php on line 6
+[26-May-2024 10:50:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-social-black-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-social-black-background.php on line 6
+[26-May-2024 10:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php on line 6
+[26-May-2024 10:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php on line 6
+[26-May-2024 10:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php on line 6
+[26-May-2024 10:50:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php on line 6
+[26-May-2024 10:50:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-with-tagline-black-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-with-tagline-black-background.php on line 6
+[26-May-2024 10:50:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php on line 6
+[26-May-2024 10:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php on line 6
+[26-May-2024 10:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php on line 6
+[26-May-2024 10:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php on line 6
+[26-May-2024 10:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php on line 9
+[26-May-2024 10:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php on line 10
+[26-May-2024 10:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php on line 6
+[26-May-2024 10:50:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php on line 6
+[26-May-2024 10:50:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php on line 6
+[26-May-2024 10:50:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php on line 6
+[26-May-2024 10:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php on line 6
+[26-May-2024 10:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php on line 6
+[26-May-2024 10:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php on line 6
+[26-May-2024 10:50:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php on line 6
+[26-May-2024 10:50:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php on line 6
+[26-May-2024 10:50:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php on line 6
+[26-May-2024 10:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php on line 6
+[26-May-2024 10:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php on line 6
+[26-May-2024 10:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php on line 6
+[26-May-2024 10:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php on line 6
+[26-May-2024 10:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php on line 6
+[26-May-2024 10:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php on line 6
+[26-May-2024 10:50:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php on line 6
+[26-May-2024 10:50:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php on line 6
+[26-May-2024 10:50:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php on line 6
+[26-May-2024 10:50:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php on line 6
+[26-May-2024 10:50:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php on line 6
+[10-Jun-2024 10:46:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php on line 6
+[10-Jun-2024 10:46:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php on line 6
+[10-Jun-2024 10:46:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php on line 6
+[10-Jun-2024 10:46:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php on line 6
+[10-Jun-2024 10:46:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php on line 6
+[10-Jun-2024 10:46:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php on line 6
+[10-Jun-2024 10:46:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php on line 6
+[10-Jun-2024 10:46:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php on line 6
+[10-Jun-2024 10:46:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php on line 6
+[10-Jun-2024 10:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php on line 6
+[10-Jun-2024 10:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php on line 6
+[10-Jun-2024 10:46:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php on line 6
+[10-Jun-2024 10:46:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php on line 6
+[10-Jun-2024 10:46:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php on line 6
+[10-Jun-2024 10:46:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php on line 6
+[10-Jun-2024 10:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php on line 6
+[10-Jun-2024 10:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php on line 6
+[10-Jun-2024 10:46:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php on line 6
+[10-Jun-2024 10:46:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php on line 6
+[10-Jun-2024 10:46:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php on line 6
+[10-Jun-2024 10:46:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php on line 6
+[10-Jun-2024 10:46:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php on line 6
+[10-Jun-2024 10:46:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php on line 6
+[10-Jun-2024 10:46:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php on line 6
+[10-Jun-2024 10:46:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo-black-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo-black-background.php on line 6
+[10-Jun-2024 10:46:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php on line 6
+[10-Jun-2024 10:46:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-title-navigation-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-title-navigation-social.php on line 6
+[10-Jun-2024 10:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php on line 6
+[10-Jun-2024 10:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php on line 6
+[10-Jun-2024 10:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php on line 6
+[10-Jun-2024 10:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php on line 6
+[10-Jun-2024 10:46:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-gray-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-gray-background.php on line 6
+[10-Jun-2024 10:46:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-offset-tagline.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-offset-tagline.php on line 6
+[10-Jun-2024 10:46:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-social-black-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-social-black-background.php on line 6
+[10-Jun-2024 10:46:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php on line 6
+[10-Jun-2024 10:46:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php on line 6
+[10-Jun-2024 10:46:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php on line 6
+[10-Jun-2024 10:46:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php on line 6
+[10-Jun-2024 10:46:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-with-tagline-black-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-with-tagline-black-background.php on line 6
+[10-Jun-2024 10:46:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php on line 6
+[10-Jun-2024 10:46:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php on line 6
+[10-Jun-2024 10:46:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php on line 6
+[10-Jun-2024 10:46:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php on line 6
+[10-Jun-2024 10:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php on line 9
+[10-Jun-2024 10:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php on line 10
+[10-Jun-2024 10:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php on line 6
+[10-Jun-2024 10:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php on line 6
+[10-Jun-2024 10:46:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php on line 6
+[10-Jun-2024 10:46:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php on line 6
+[10-Jun-2024 10:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php on line 6
+[10-Jun-2024 10:46:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php on line 6
+[10-Jun-2024 10:46:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php on line 6
+[10-Jun-2024 10:46:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php on line 6
+[10-Jun-2024 10:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php on line 6
+[10-Jun-2024 10:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php on line 6
+[10-Jun-2024 10:46:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php on line 6
+[10-Jun-2024 10:46:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php on line 6
+[10-Jun-2024 10:46:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php on line 6
+[10-Jun-2024 10:46:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php on line 6
+[10-Jun-2024 10:46:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php on line 6
+[10-Jun-2024 10:46:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php on line 6
+[10-Jun-2024 10:46:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php on line 6
+[10-Jun-2024 10:46:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php on line 6
+[10-Jun-2024 10:46:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php on line 6
+[10-Jun-2024 10:46:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php on line 6
+[10-Jun-2024 10:46:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php on line 6

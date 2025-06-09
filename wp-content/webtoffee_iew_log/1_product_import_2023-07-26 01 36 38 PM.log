@@ -1,0 +1,982 @@
+07-26-2023 @ 13:36:38 - ---[ New import started at 2023-07-26 13:36:38 ] PHP Memory: 4 GB, WP Memory: 4 GB
+07-26-2023 @ 13:36:38 - Preparing for import.
+07-26-2023 @ 13:36:38 - Row :1 - Parsing item.
+07-26-2023 @ 13:36:38 - Importing as new product ID:9383
+07-26-2023 @ 13:36:38 - Row :1 - Processing item.
+07-26-2023 @ 13:36:38 - Found simple product object. ID:9383
+07-26-2023 @ 13:36:38 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01393.jpg
+07-26-2023 @ 13:36:38 - Attachment ID:9384
+07-26-2023 @ 13:36:38 - Row :1 - Product imported successfully.
+07-26-2023 @ 13:36:38 - Row :2 - Parsing item.
+07-26-2023 @ 13:36:38 - Importing as new product ID:9386
+07-26-2023 @ 13:36:38 - Row :2 - Processing item.
+07-26-2023 @ 13:36:38 - Found simple product object. ID:9386
+07-26-2023 @ 13:36:38 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01397.jpg
+07-26-2023 @ 13:36:38 - Attachment ID:9387
+07-26-2023 @ 13:36:38 - Row :2 - Product imported successfully.
+07-26-2023 @ 13:36:38 - Row :3 - Parsing item.
+07-26-2023 @ 13:36:38 - Importing as new product ID:9389
+07-26-2023 @ 13:36:38 - Row :3 - Processing item.
+07-26-2023 @ 13:36:38 - Found simple product object. ID:9389
+07-26-2023 @ 13:36:38 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01396.jpg
+07-26-2023 @ 13:36:38 - Attachment ID:9390
+07-26-2023 @ 13:36:38 - Row :3 - Product imported successfully.
+07-26-2023 @ 13:36:38 - Row :4 - Parsing item.
+07-26-2023 @ 13:36:38 - Importing as new product ID:9392
+07-26-2023 @ 13:36:38 - Row :4 - Processing item.
+07-26-2023 @ 13:36:38 - Found simple product object. ID:9392
+07-26-2023 @ 13:36:38 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01915.png
+07-26-2023 @ 13:36:38 - Attachment ID:9393
+07-26-2023 @ 13:36:39 - Row :4 - Product imported successfully.
+07-26-2023 @ 13:36:39 - Row :5 - Parsing item.
+07-26-2023 @ 13:36:39 - Importing as new product ID:9395
+07-26-2023 @ 13:36:39 - Row :5 - Processing item.
+07-26-2023 @ 13:36:39 - Found simple product object. ID:9395
+07-26-2023 @ 13:36:39 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01402.jpg
+07-26-2023 @ 13:36:39 - Attachment ID:9396
+07-26-2023 @ 13:36:39 - Row :5 - Product imported successfully.
+07-26-2023 @ 13:36:39 - Row :6 - Parsing item.
+07-26-2023 @ 13:36:39 - Importing as new product ID:9398
+07-26-2023 @ 13:36:39 - Row :6 - Processing item.
+07-26-2023 @ 13:36:39 - Found simple product object. ID:9398
+07-26-2023 @ 13:36:39 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01388.jpg
+07-26-2023 @ 13:36:39 - Attachment ID:9399
+07-26-2023 @ 13:36:39 - Row :6 - Product imported successfully.
+07-26-2023 @ 13:36:39 - Row :7 - Parsing item.
+07-26-2023 @ 13:36:39 - Importing as new product ID:9401
+07-26-2023 @ 13:36:39 - Row :7 - Processing item.
+07-26-2023 @ 13:36:39 - Found simple product object. ID:9401
+07-26-2023 @ 13:36:39 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01528.jpeg
+07-26-2023 @ 13:36:39 - Attachment ID:9402
+07-26-2023 @ 13:36:39 - Row :7 - Product imported successfully.
+07-26-2023 @ 13:36:39 - Row :8 - Parsing item.
+07-26-2023 @ 13:36:39 - Importing as new product ID:9404
+07-26-2023 @ 13:36:39 - Row :8 - Processing item.
+07-26-2023 @ 13:36:39 - Found simple product object. ID:9404
+07-26-2023 @ 13:36:39 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01531.jpeg
+07-26-2023 @ 13:36:39 - Attachment ID:9405
+07-26-2023 @ 13:36:40 - Row :8 - Product imported successfully.
+07-26-2023 @ 13:36:40 - Row :9 - Parsing item.
+07-26-2023 @ 13:36:40 - Importing as new product ID:9407
+07-26-2023 @ 13:36:40 - Row :9 - Processing item.
+07-26-2023 @ 13:36:40 - Found simple product object. ID:9407
+07-26-2023 @ 13:36:40 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01529.jpeg
+07-26-2023 @ 13:36:40 - Attachment ID:9408
+07-26-2023 @ 13:36:40 - Row :9 - Product imported successfully.
+07-26-2023 @ 13:36:40 - Row :10 - Parsing item.
+07-26-2023 @ 13:36:40 - Importing as new product ID:9410
+07-26-2023 @ 13:36:40 - Row :10 - Processing item.
+07-26-2023 @ 13:36:40 - Found simple product object. ID:9410
+07-26-2023 @ 13:36:40 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01523.jpeg
+07-26-2023 @ 13:36:40 - Attachment ID:9411
+07-26-2023 @ 13:36:40 - Row :10 - Product imported successfully.
+07-26-2023 @ 13:36:41 - Preparing for import.
+07-26-2023 @ 13:36:41 - Row :11 - Parsing item.
+07-26-2023 @ 13:36:41 - Importing as new product ID:9413
+07-26-2023 @ 13:36:41 - Row :11 - Processing item.
+07-26-2023 @ 13:36:41 - Found simple product object. ID:9413
+07-26-2023 @ 13:36:41 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01487.jpg
+07-26-2023 @ 13:36:41 - Attachment ID:9414
+07-26-2023 @ 13:36:41 - Row :11 - Product imported successfully.
+07-26-2023 @ 13:36:41 - Row :12 - Parsing item.
+07-26-2023 @ 13:36:41 - Importing as new product ID:9416
+07-26-2023 @ 13:36:41 - Row :12 - Processing item.
+07-26-2023 @ 13:36:41 - Found simple product object. ID:9416
+07-26-2023 @ 13:36:41 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01919.png
+07-26-2023 @ 13:36:41 - Attachment ID:9417
+07-26-2023 @ 13:36:41 - Row :12 - Product imported successfully.
+07-26-2023 @ 13:36:41 - Row :13 - Parsing item.
+07-26-2023 @ 13:36:41 - Importing as new product ID:9419
+07-26-2023 @ 13:36:41 - Row :13 - Processing item.
+07-26-2023 @ 13:36:41 - Found simple product object. ID:9419
+07-26-2023 @ 13:36:41 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01921.png
+07-26-2023 @ 13:36:42 - Attachment ID:9420
+07-26-2023 @ 13:36:42 - Row :13 - Product imported successfully.
+07-26-2023 @ 13:36:42 - Row :14 - Parsing item.
+07-26-2023 @ 13:36:42 - Importing as new product ID:9422
+07-26-2023 @ 13:36:42 - Row :14 - Processing item.
+07-26-2023 @ 13:36:42 - Found simple product object. ID:9422
+07-26-2023 @ 13:36:42 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01920.png
+07-26-2023 @ 13:36:42 - Attachment ID:9423
+07-26-2023 @ 13:36:42 - Row :14 - Product imported successfully.
+07-26-2023 @ 13:36:42 - Row :15 - Parsing item.
+07-26-2023 @ 13:36:42 - Importing as new product ID:9425
+07-26-2023 @ 13:36:42 - Row :15 - Processing item.
+07-26-2023 @ 13:36:42 - Found simple product object. ID:9425
+07-26-2023 @ 13:36:42 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01924.png
+07-26-2023 @ 13:36:42 - Attachment ID:9426
+07-26-2023 @ 13:36:42 - Row :15 - Product imported successfully.
+07-26-2023 @ 13:36:42 - Row :16 - Parsing item.
+07-26-2023 @ 13:36:42 - Importing as new product ID:9428
+07-26-2023 @ 13:36:42 - Row :16 - Processing item.
+07-26-2023 @ 13:36:42 - Found simple product object. ID:9428
+07-26-2023 @ 13:36:42 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01922.png
+07-26-2023 @ 13:36:42 - Attachment ID:9429
+07-26-2023 @ 13:36:42 - Row :16 - Product imported successfully.
+07-26-2023 @ 13:36:42 - Row :17 - Parsing item.
+07-26-2023 @ 13:36:42 - Importing as new product ID:9431
+07-26-2023 @ 13:36:42 - Row :17 - Processing item.
+07-26-2023 @ 13:36:42 - Found simple product object. ID:9431
+07-26-2023 @ 13:36:42 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01923.png
+07-26-2023 @ 13:36:42 - Attachment ID:9432
+07-26-2023 @ 13:36:42 - Row :17 - Product imported successfully.
+07-26-2023 @ 13:36:42 - Row :18 - Parsing item.
+07-26-2023 @ 13:36:43 - Importing as new product ID:9434
+07-26-2023 @ 13:36:43 - Row :18 - Processing item.
+07-26-2023 @ 13:36:43 - Found simple product object. ID:9434
+07-26-2023 @ 13:36:43 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01545.png
+07-26-2023 @ 13:36:43 - Attachment ID:9435
+07-26-2023 @ 13:36:43 - Row :18 - Product imported successfully.
+07-26-2023 @ 13:36:43 - Row :19 - Parsing item.
+07-26-2023 @ 13:36:43 - Importing as new product ID:9437
+07-26-2023 @ 13:36:43 - Row :19 - Processing item.
+07-26-2023 @ 13:36:43 - Found simple product object. ID:9437
+07-26-2023 @ 13:36:43 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01546.png
+07-26-2023 @ 13:36:43 - Attachment ID:9438
+07-26-2023 @ 13:36:43 - Row :19 - Product imported successfully.
+07-26-2023 @ 13:36:43 - Row :20 - Parsing item.
+07-26-2023 @ 13:36:43 - Importing as new product ID:9440
+07-26-2023 @ 13:36:43 - Row :20 - Processing item.
+07-26-2023 @ 13:36:43 - Found simple product object. ID:9440
+07-26-2023 @ 13:36:43 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01547.png
+07-26-2023 @ 13:36:43 - Attachment ID:9441
+07-26-2023 @ 13:36:43 - Row :20 - Product imported successfully.
+07-26-2023 @ 13:36:44 - Preparing for import.
+07-26-2023 @ 13:36:44 - Row :21 - Parsing item.
+07-26-2023 @ 13:36:44 - Importing as new product ID:9443
+07-26-2023 @ 13:36:44 - Row :21 - Processing item.
+07-26-2023 @ 13:36:44 - Found simple product object. ID:9443
+07-26-2023 @ 13:36:44 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01543.png
+07-26-2023 @ 13:36:44 - Attachment ID:9444
+07-26-2023 @ 13:36:44 - Row :21 - Product imported successfully.
+07-26-2023 @ 13:36:44 - Row :22 - Parsing item.
+07-26-2023 @ 13:36:44 - Importing as new product ID:9446
+07-26-2023 @ 13:36:44 - Row :22 - Processing item.
+07-26-2023 @ 13:36:44 - Found simple product object. ID:9446
+07-26-2023 @ 13:36:44 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01544.png
+07-26-2023 @ 13:36:44 - Attachment ID:9447
+07-26-2023 @ 13:36:45 - Row :22 - Product imported successfully.
+07-26-2023 @ 13:36:45 - Row :23 - Parsing item.
+07-26-2023 @ 13:36:45 - Importing as new product ID:9449
+07-26-2023 @ 13:36:45 - Row :23 - Processing item.
+07-26-2023 @ 13:36:45 - Found simple product object. ID:9449
+07-26-2023 @ 13:36:45 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01418.jpg
+07-26-2023 @ 13:36:45 - Attachment ID:9450
+07-26-2023 @ 13:36:45 - Row :23 - Product imported successfully.
+07-26-2023 @ 13:36:45 - Row :24 - Parsing item.
+07-26-2023 @ 13:36:45 - Importing as new product ID:9452
+07-26-2023 @ 13:36:45 - Row :24 - Processing item.
+07-26-2023 @ 13:36:45 - Found simple product object. ID:9452
+07-26-2023 @ 13:36:45 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01391.jpg
+07-26-2023 @ 13:36:45 - Attachment ID:9453
+07-26-2023 @ 13:36:45 - Row :24 - Product imported successfully.
+07-26-2023 @ 13:36:45 - Row :25 - Parsing item.
+07-26-2023 @ 13:36:45 - Importing as new product ID:9455
+07-26-2023 @ 13:36:45 - Row :25 - Processing item.
+07-26-2023 @ 13:36:45 - Found simple product object. ID:9455
+07-26-2023 @ 13:36:45 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01389.jpg
+07-26-2023 @ 13:36:45 - Attachment ID:9456
+07-26-2023 @ 13:36:45 - Row :25 - Product imported successfully.
+07-26-2023 @ 13:36:45 - Row :26 - Parsing item.
+07-26-2023 @ 13:36:45 - Importing as new product ID:9458
+07-26-2023 @ 13:36:45 - Row :26 - Processing item.
+07-26-2023 @ 13:36:45 - Found simple product object. ID:9458
+07-26-2023 @ 13:36:45 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01392.jpg
+07-26-2023 @ 13:36:45 - Attachment ID:9459
+07-26-2023 @ 13:36:45 - Row :26 - Product imported successfully.
+07-26-2023 @ 13:36:45 - Row :27 - Parsing item.
+07-26-2023 @ 13:36:45 - Importing as new product ID:9461
+07-26-2023 @ 13:36:45 - Row :27 - Processing item.
+07-26-2023 @ 13:36:45 - Found simple product object. ID:9461
+07-26-2023 @ 13:36:45 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01471.jpeg
+07-26-2023 @ 13:36:45 - Attachment ID:9462
+07-26-2023 @ 13:36:46 - Row :27 - Product imported successfully.
+07-26-2023 @ 13:36:46 - Row :28 - Parsing item.
+07-26-2023 @ 13:36:46 - Importing as new product ID:9464
+07-26-2023 @ 13:36:46 - Row :28 - Processing item.
+07-26-2023 @ 13:36:46 - Found simple product object. ID:9464
+07-26-2023 @ 13:36:46 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01463.jpeg
+07-26-2023 @ 13:36:46 - Attachment ID:9465
+07-26-2023 @ 13:36:46 - Row :28 - Product imported successfully.
+07-26-2023 @ 13:36:46 - Row :29 - Parsing item.
+07-26-2023 @ 13:36:46 - Importing as new product ID:9467
+07-26-2023 @ 13:36:46 - Row :29 - Processing item.
+07-26-2023 @ 13:36:46 - Found simple product object. ID:9467
+07-26-2023 @ 13:36:46 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01472.jpeg
+07-26-2023 @ 13:36:46 - Attachment ID:9468
+07-26-2023 @ 13:36:46 - Row :29 - Product imported successfully.
+07-26-2023 @ 13:36:46 - Row :30 - Parsing item.
+07-26-2023 @ 13:36:46 - Importing as new product ID:9470
+07-26-2023 @ 13:36:46 - Row :30 - Processing item.
+07-26-2023 @ 13:36:46 - Found simple product object. ID:9470
+07-26-2023 @ 13:36:46 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01460.jpeg
+07-26-2023 @ 13:36:46 - Attachment ID:9471
+07-26-2023 @ 13:36:46 - Row :30 - Product imported successfully.
+07-26-2023 @ 13:36:47 - Preparing for import.
+07-26-2023 @ 13:36:47 - Row :31 - Parsing item.
+07-26-2023 @ 13:36:47 - Importing as new product ID:9473
+07-26-2023 @ 13:36:47 - Row :31 - Processing item.
+07-26-2023 @ 13:36:47 - Found simple product object. ID:9473
+07-26-2023 @ 13:36:47 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01462.jpeg
+07-26-2023 @ 13:36:47 - Attachment ID:9474
+07-26-2023 @ 13:36:47 - Row :31 - Product imported successfully.
+07-26-2023 @ 13:36:47 - Row :32 - Parsing item.
+07-26-2023 @ 13:36:47 - Importing as new product ID:9476
+07-26-2023 @ 13:36:47 - Row :32 - Processing item.
+07-26-2023 @ 13:36:47 - Found simple product object. ID:9476
+07-26-2023 @ 13:36:47 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01469.jpeg
+07-26-2023 @ 13:36:48 - Attachment ID:9477
+07-26-2023 @ 13:36:48 - Row :32 - Product imported successfully.
+07-26-2023 @ 13:36:48 - Row :33 - Parsing item.
+07-26-2023 @ 13:36:48 - Importing as new product ID:9479
+07-26-2023 @ 13:36:48 - Row :33 - Processing item.
+07-26-2023 @ 13:36:48 - Found simple product object. ID:9479
+07-26-2023 @ 13:36:48 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01481.jpg
+07-26-2023 @ 13:36:48 - Attachment ID:9480
+07-26-2023 @ 13:36:48 - Row :33 - Product imported successfully.
+07-26-2023 @ 13:36:48 - Row :34 - Parsing item.
+07-26-2023 @ 13:36:48 - Importing as new product ID:9482
+07-26-2023 @ 13:36:48 - Row :34 - Processing item.
+07-26-2023 @ 13:36:48 - Found simple product object. ID:9482
+07-26-2023 @ 13:36:48 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01490.jpg
+07-26-2023 @ 13:36:48 - Attachment ID:9483
+07-26-2023 @ 13:36:48 - Row :34 - Product imported successfully.
+07-26-2023 @ 13:36:48 - Row :35 - Parsing item.
+07-26-2023 @ 13:36:48 - Importing as new product ID:9485
+07-26-2023 @ 13:36:48 - Row :35 - Processing item.
+07-26-2023 @ 13:36:48 - Found simple product object. ID:9485
+07-26-2023 @ 13:36:48 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01491.jpg
+07-26-2023 @ 13:36:48 - Attachment ID:9486
+07-26-2023 @ 13:36:48 - Row :35 - Product imported successfully.
+07-26-2023 @ 13:36:48 - Row :36 - Parsing item.
+07-26-2023 @ 13:36:48 - Importing as new product ID:9488
+07-26-2023 @ 13:36:48 - Row :36 - Processing item.
+07-26-2023 @ 13:36:48 - Found simple product object. ID:9488
+07-26-2023 @ 13:36:48 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01488.jpg
+07-26-2023 @ 13:36:48 - Attachment ID:9489
+07-26-2023 @ 13:36:49 - Row :36 - Product imported successfully.
+07-26-2023 @ 13:36:49 - Row :37 - Parsing item.
+07-26-2023 @ 13:36:49 - Importing as new product ID:9491
+07-26-2023 @ 13:36:49 - Row :37 - Processing item.
+07-26-2023 @ 13:36:49 - Found simple product object. ID:9491
+07-26-2023 @ 13:36:49 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01493.jpg
+07-26-2023 @ 13:36:49 - Attachment ID:9492
+07-26-2023 @ 13:36:49 - Row :37 - Product imported successfully.
+07-26-2023 @ 13:36:49 - Row :38 - Parsing item.
+07-26-2023 @ 13:36:49 - Importing as new product ID:9494
+07-26-2023 @ 13:36:49 - Row :38 - Processing item.
+07-26-2023 @ 13:36:49 - Found simple product object. ID:9494
+07-26-2023 @ 13:36:49 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01492.jpg
+07-26-2023 @ 13:36:49 - Attachment ID:9495
+07-26-2023 @ 13:36:49 - Row :38 - Product imported successfully.
+07-26-2023 @ 13:36:49 - Row :39 - Parsing item.
+07-26-2023 @ 13:36:49 - Importing as new product ID:9497
+07-26-2023 @ 13:36:49 - Row :39 - Processing item.
+07-26-2023 @ 13:36:49 - Found simple product object. ID:9497
+07-26-2023 @ 13:36:49 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01555.png
+07-26-2023 @ 13:36:49 - Attachment ID:9498
+07-26-2023 @ 13:36:49 - Row :39 - Product imported successfully.
+07-26-2023 @ 13:36:49 - Row :40 - Parsing item.
+07-26-2023 @ 13:36:49 - Importing as new product ID:9500
+07-26-2023 @ 13:36:49 - Row :40 - Processing item.
+07-26-2023 @ 13:36:49 - Found simple product object. ID:9500
+07-26-2023 @ 13:36:49 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01539.png
+07-26-2023 @ 13:36:49 - Attachment ID:9501
+07-26-2023 @ 13:36:49 - Row :40 - Product imported successfully.
+07-26-2023 @ 13:36:50 - Preparing for import.
+07-26-2023 @ 13:36:50 - Row :41 - Parsing item.
+07-26-2023 @ 13:36:50 - Importing as new product ID:9503
+07-26-2023 @ 13:36:50 - Row :41 - Processing item.
+07-26-2023 @ 13:36:50 - Found simple product object. ID:9503
+07-26-2023 @ 13:36:50 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01551.png
+07-26-2023 @ 13:36:51 - Attachment ID:9504
+07-26-2023 @ 13:36:51 - Row :41 - Product imported successfully.
+07-26-2023 @ 13:36:51 - Row :42 - Parsing item.
+07-26-2023 @ 13:36:51 - Importing as new product ID:9506
+07-26-2023 @ 13:36:51 - Row :42 - Processing item.
+07-26-2023 @ 13:36:51 - Found simple product object. ID:9506
+07-26-2023 @ 13:36:51 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01552.png
+07-26-2023 @ 13:36:51 - Attachment ID:9507
+07-26-2023 @ 13:36:51 - Row :42 - Product imported successfully.
+07-26-2023 @ 13:36:51 - Row :43 - Parsing item.
+07-26-2023 @ 13:36:51 - Importing as new product ID:9509
+07-26-2023 @ 13:36:51 - Row :43 - Processing item.
+07-26-2023 @ 13:36:51 - Found simple product object. ID:9509
+07-26-2023 @ 13:36:51 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01541.png
+07-26-2023 @ 13:36:51 - Attachment ID:9510
+07-26-2023 @ 13:36:51 - Row :43 - Product imported successfully.
+07-26-2023 @ 13:36:51 - Row :44 - Parsing item.
+07-26-2023 @ 13:36:51 - Importing as new product ID:9512
+07-26-2023 @ 13:36:51 - Row :44 - Processing item.
+07-26-2023 @ 13:36:51 - Found simple product object. ID:9512
+07-26-2023 @ 13:36:51 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01553.png
+07-26-2023 @ 13:36:51 - Attachment ID:9513
+07-26-2023 @ 13:36:51 - Row :44 - Product imported successfully.
+07-26-2023 @ 13:36:51 - Row :45 - Parsing item.
+07-26-2023 @ 13:36:51 - Importing as new product ID:9515
+07-26-2023 @ 13:36:51 - Row :45 - Processing item.
+07-26-2023 @ 13:36:51 - Found simple product object. ID:9515
+07-26-2023 @ 13:36:51 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01542.png
+07-26-2023 @ 13:36:51 - Attachment ID:9516
+07-26-2023 @ 13:36:52 - Row :45 - Product imported successfully.
+07-26-2023 @ 13:36:52 - Row :46 - Parsing item.
+07-26-2023 @ 13:36:52 - Importing as new product ID:9518
+07-26-2023 @ 13:36:52 - Row :46 - Processing item.
+07-26-2023 @ 13:36:52 - Found simple product object. ID:9518
+07-26-2023 @ 13:36:52 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01554.png
+07-26-2023 @ 13:36:52 - Attachment ID:9519
+07-26-2023 @ 13:36:52 - Row :46 - Product imported successfully.
+07-26-2023 @ 13:36:52 - Row :47 - Parsing item.
+07-26-2023 @ 13:36:52 - Importing as new product ID:9521
+07-26-2023 @ 13:36:52 - Row :47 - Processing item.
+07-26-2023 @ 13:36:52 - Found simple product object. ID:9521
+07-26-2023 @ 13:36:52 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01549.png
+07-26-2023 @ 13:36:52 - Attachment ID:9522
+07-26-2023 @ 13:36:52 - Row :47 - Product imported successfully.
+07-26-2023 @ 13:36:52 - Row :48 - Parsing item.
+07-26-2023 @ 13:36:52 - Importing as new product ID:9524
+07-26-2023 @ 13:36:52 - Row :48 - Processing item.
+07-26-2023 @ 13:36:52 - Found simple product object. ID:9524
+07-26-2023 @ 13:36:52 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01548.png
+07-26-2023 @ 13:36:52 - Attachment ID:9525
+07-26-2023 @ 13:36:52 - Row :48 - Product imported successfully.
+07-26-2023 @ 13:36:52 - Row :49 - Parsing item.
+07-26-2023 @ 13:36:52 - Importing as new product ID:9527
+07-26-2023 @ 13:36:52 - Row :49 - Processing item.
+07-26-2023 @ 13:36:52 - Found simple product object. ID:9527
+07-26-2023 @ 13:36:52 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01550.png
+07-26-2023 @ 13:36:52 - Attachment ID:9528
+07-26-2023 @ 13:36:52 - Row :49 - Product imported successfully.
+07-26-2023 @ 13:36:52 - Row :50 - Parsing item.
+07-26-2023 @ 13:36:52 - Importing as new product ID:9530
+07-26-2023 @ 13:36:52 - Row :50 - Processing item.
+07-26-2023 @ 13:36:52 - Found simple product object. ID:9530
+07-26-2023 @ 13:36:52 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01918.png
+07-26-2023 @ 13:36:52 - Attachment ID:9531
+07-26-2023 @ 13:36:53 - Row :50 - Product imported successfully.
+07-26-2023 @ 13:36:54 - Preparing for import.
+07-26-2023 @ 13:36:54 - Row :51 - Parsing item.
+07-26-2023 @ 13:36:54 - Importing as new product ID:9533
+07-26-2023 @ 13:36:54 - Row :51 - Processing item.
+07-26-2023 @ 13:36:54 - Found simple product object. ID:9533
+07-26-2023 @ 13:36:54 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01917.png
+07-26-2023 @ 13:36:54 - Attachment ID:9534
+07-26-2023 @ 13:36:54 - Row :51 - Product imported successfully.
+07-26-2023 @ 13:36:54 - Row :52 - Parsing item.
+07-26-2023 @ 13:36:54 - Importing as new product ID:9536
+07-26-2023 @ 13:36:54 - Row :52 - Processing item.
+07-26-2023 @ 13:36:54 - Found simple product object. ID:9536
+07-26-2023 @ 13:36:54 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01893.png
+07-26-2023 @ 13:36:54 - Attachment ID:9537
+07-26-2023 @ 13:36:54 - Row :52 - Product imported successfully.
+07-26-2023 @ 13:36:54 - Row :53 - Parsing item.
+07-26-2023 @ 13:36:54 - Importing as new product ID:9539
+07-26-2023 @ 13:36:54 - Row :53 - Processing item.
+07-26-2023 @ 13:36:54 - Found simple product object. ID:9539
+07-26-2023 @ 13:36:54 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01912.png
+07-26-2023 @ 13:36:54 - Attachment ID:9540
+07-26-2023 @ 13:36:54 - Row :53 - Product imported successfully.
+07-26-2023 @ 13:36:54 - Row :54 - Parsing item.
+07-26-2023 @ 13:36:54 - Importing as new product ID:9542
+07-26-2023 @ 13:36:54 - Row :54 - Processing item.
+07-26-2023 @ 13:36:54 - Found simple product object. ID:9542
+07-26-2023 @ 13:36:54 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01776.jpg
+07-26-2023 @ 13:36:54 - Attachment ID:9543
+07-26-2023 @ 13:36:54 - Row :54 - Product imported successfully.
+07-26-2023 @ 13:36:54 - Row :55 - Parsing item.
+07-26-2023 @ 13:36:54 - Importing as new product ID:9545
+07-26-2023 @ 13:36:54 - Row :55 - Processing item.
+07-26-2023 @ 13:36:54 - Found simple product object. ID:9545
+07-26-2023 @ 13:36:54 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01777.jpg
+07-26-2023 @ 13:36:55 - Attachment ID:9546
+07-26-2023 @ 13:36:55 - Row :55 - Product imported successfully.
+07-26-2023 @ 13:36:55 - Row :56 - Parsing item.
+07-26-2023 @ 13:36:55 - Importing as new product ID:9548
+07-26-2023 @ 13:36:55 - Row :56 - Processing item.
+07-26-2023 @ 13:36:55 - Found simple product object. ID:9548
+07-26-2023 @ 13:36:55 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01778.jpg
+07-26-2023 @ 13:36:55 - Attachment ID:9549
+07-26-2023 @ 13:36:55 - Row :56 - Product imported successfully.
+07-26-2023 @ 13:36:55 - Row :57 - Parsing item.
+07-26-2023 @ 13:36:55 - Importing as new product ID:9551
+07-26-2023 @ 13:36:55 - Row :57 - Processing item.
+07-26-2023 @ 13:36:55 - Found simple product object. ID:9551
+07-26-2023 @ 13:36:55 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01815.png
+07-26-2023 @ 13:36:55 - Attachment ID:9552
+07-26-2023 @ 13:36:55 - Row :57 - Product imported successfully.
+07-26-2023 @ 13:36:55 - Row :58 - Parsing item.
+07-26-2023 @ 13:36:55 - Importing as new product ID:9554
+07-26-2023 @ 13:36:55 - Row :58 - Processing item.
+07-26-2023 @ 13:36:55 - Found simple product object. ID:9554
+07-26-2023 @ 13:36:55 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01895.png
+07-26-2023 @ 13:36:55 - Attachment ID:9555
+07-26-2023 @ 13:36:55 - Row :58 - Product imported successfully.
+07-26-2023 @ 13:36:55 - Row :59 - Parsing item.
+07-26-2023 @ 13:36:55 - Importing as new product ID:9557
+07-26-2023 @ 13:36:55 - Row :59 - Processing item.
+07-26-2023 @ 13:36:55 - Found simple product object. ID:9557
+07-26-2023 @ 13:36:55 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01468.jpeg
+07-26-2023 @ 13:36:55 - Attachment ID:9558
+07-26-2023 @ 13:36:55 - Row :59 - Product imported successfully.
+07-26-2023 @ 13:36:55 - Row :60 - Parsing item.
+07-26-2023 @ 13:36:55 - Importing as new product ID:9560
+07-26-2023 @ 13:36:55 - Row :60 - Processing item.
+07-26-2023 @ 13:36:55 - Found simple product object. ID:9560
+07-26-2023 @ 13:36:55 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01822.jpeg
+07-26-2023 @ 13:36:56 - Attachment ID:9561
+07-26-2023 @ 13:36:56 - Row :60 - Product imported successfully.
+07-26-2023 @ 13:36:57 - Preparing for import.
+07-26-2023 @ 13:36:57 - Row :61 - Parsing item.
+07-26-2023 @ 13:36:57 - Importing as new product ID:9563
+07-26-2023 @ 13:36:57 - Row :61 - Processing item.
+07-26-2023 @ 13:36:57 - Found simple product object. ID:9563
+07-26-2023 @ 13:36:57 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01880.png
+07-26-2023 @ 13:36:57 - Attachment ID:9564
+07-26-2023 @ 13:36:57 - Row :61 - Product imported successfully.
+07-26-2023 @ 13:36:57 - Row :62 - Parsing item.
+07-26-2023 @ 13:36:57 - Importing as new product ID:9566
+07-26-2023 @ 13:36:57 - Row :62 - Processing item.
+07-26-2023 @ 13:36:57 - Found simple product object. ID:9566
+07-26-2023 @ 13:36:57 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01883.png
+07-26-2023 @ 13:36:57 - Attachment ID:9567
+07-26-2023 @ 13:36:57 - Row :62 - Product imported successfully.
+07-26-2023 @ 13:36:57 - Row :63 - Parsing item.
+07-26-2023 @ 13:36:57 - Importing as new product ID:9569
+07-26-2023 @ 13:36:57 - Row :63 - Processing item.
+07-26-2023 @ 13:36:57 - Found simple product object. ID:9569
+07-26-2023 @ 13:36:57 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01882.png
+07-26-2023 @ 13:36:57 - Attachment ID:9570
+07-26-2023 @ 13:36:57 - Row :63 - Product imported successfully.
+07-26-2023 @ 13:36:57 - Row :64 - Parsing item.
+07-26-2023 @ 13:36:57 - Importing as new product ID:9572
+07-26-2023 @ 13:36:57 - Row :64 - Processing item.
+07-26-2023 @ 13:36:57 - Found simple product object. ID:9572
+07-26-2023 @ 13:36:57 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01608.jpg
+07-26-2023 @ 13:36:57 - Attachment ID:9573
+07-26-2023 @ 13:36:58 - Row :64 - Product imported successfully.
+07-26-2023 @ 13:36:58 - Row :65 - Parsing item.
+07-26-2023 @ 13:36:58 - Importing as new product ID:9575
+07-26-2023 @ 13:36:58 - Row :65 - Processing item.
+07-26-2023 @ 13:36:58 - Found simple product object. ID:9575
+07-26-2023 @ 13:36:58 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01609.jpg
+07-26-2023 @ 13:36:58 - Attachment ID:9576
+07-26-2023 @ 13:36:58 - Row :65 - Product imported successfully.
+07-26-2023 @ 13:36:58 - Row :66 - Parsing item.
+07-26-2023 @ 13:36:58 - Importing as new product ID:9578
+07-26-2023 @ 13:36:58 - Row :66 - Processing item.
+07-26-2023 @ 13:36:58 - Found simple product object. ID:9578
+07-26-2023 @ 13:36:58 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01610.jpg
+07-26-2023 @ 13:36:58 - Attachment ID:9579
+07-26-2023 @ 13:36:58 - Row :66 - Product imported successfully.
+07-26-2023 @ 13:36:58 - Row :67 - Parsing item.
+07-26-2023 @ 13:36:58 - Importing as new product ID:9581
+07-26-2023 @ 13:36:58 - Row :67 - Processing item.
+07-26-2023 @ 13:36:58 - Found simple product object. ID:9581
+07-26-2023 @ 13:36:58 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01611.jpg
+07-26-2023 @ 13:36:58 - Attachment ID:9582
+07-26-2023 @ 13:36:58 - Row :67 - Product imported successfully.
+07-26-2023 @ 13:36:58 - Row :68 - Parsing item.
+07-26-2023 @ 13:36:58 - Importing as new product ID:9584
+07-26-2023 @ 13:36:58 - Row :68 - Processing item.
+07-26-2023 @ 13:36:58 - Found simple product object. ID:9584
+07-26-2023 @ 13:36:58 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01612.jpg
+07-26-2023 @ 13:36:58 - Attachment ID:9585
+07-26-2023 @ 13:36:58 - Row :68 - Product imported successfully.
+07-26-2023 @ 13:36:58 - Row :69 - Parsing item.
+07-26-2023 @ 13:36:58 - Importing as new product ID:9587
+07-26-2023 @ 13:36:58 - Row :69 - Processing item.
+07-26-2023 @ 13:36:58 - Found simple product object. ID:9587
+07-26-2023 @ 13:36:58 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01613.jpg
+07-26-2023 @ 13:36:58 - Attachment ID:9588
+07-26-2023 @ 13:36:59 - Row :69 - Product imported successfully.
+07-26-2023 @ 13:36:59 - Row :70 - Parsing item.
+07-26-2023 @ 13:36:59 - Importing as new product ID:9590
+07-26-2023 @ 13:36:59 - Row :70 - Processing item.
+07-26-2023 @ 13:36:59 - Found simple product object. ID:9590
+07-26-2023 @ 13:36:59 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01605.jpg
+07-26-2023 @ 13:36:59 - Attachment ID:9591
+07-26-2023 @ 13:36:59 - Row :70 - Product imported successfully.
+07-26-2023 @ 13:37:00 - Preparing for import.
+07-26-2023 @ 13:37:00 - Row :71 - Parsing item.
+07-26-2023 @ 13:37:00 - Importing as new product ID:9593
+07-26-2023 @ 13:37:00 - Row :71 - Processing item.
+07-26-2023 @ 13:37:00 - Found simple product object. ID:9593
+07-26-2023 @ 13:37:00 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01606.jpg
+07-26-2023 @ 13:37:00 - Attachment ID:9594
+07-26-2023 @ 13:37:00 - Row :71 - Product imported successfully.
+07-26-2023 @ 13:37:00 - Row :72 - Parsing item.
+07-26-2023 @ 13:37:00 - Importing as new product ID:9596
+07-26-2023 @ 13:37:00 - Row :72 - Processing item.
+07-26-2023 @ 13:37:00 - Found simple product object. ID:9596
+07-26-2023 @ 13:37:00 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01607.jpg
+07-26-2023 @ 13:37:00 - Attachment ID:9597
+07-26-2023 @ 13:37:00 - Row :72 - Product imported successfully.
+07-26-2023 @ 13:37:00 - Row :73 - Parsing item.
+07-26-2023 @ 13:37:00 - Importing as new product ID:9599
+07-26-2023 @ 13:37:00 - Row :73 - Processing item.
+07-26-2023 @ 13:37:00 - Found simple product object. ID:9599
+07-26-2023 @ 13:37:00 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01866.png
+07-26-2023 @ 13:37:01 - Attachment ID:9600
+07-26-2023 @ 13:37:01 - Row :73 - Product imported successfully.
+07-26-2023 @ 13:37:01 - Row :74 - Parsing item.
+07-26-2023 @ 13:37:01 - Importing as new product ID:9602
+07-26-2023 @ 13:37:01 - Row :74 - Processing item.
+07-26-2023 @ 13:37:01 - Found simple product object. ID:9602
+07-26-2023 @ 13:37:01 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01800.png
+07-26-2023 @ 13:37:01 - Attachment ID:9603
+07-26-2023 @ 13:37:01 - Row :74 - Product imported successfully.
+07-26-2023 @ 13:37:01 - Row :75 - Parsing item.
+07-26-2023 @ 13:37:01 - Importing as new product ID:9605
+07-26-2023 @ 13:37:01 - Row :75 - Processing item.
+07-26-2023 @ 13:37:01 - Found simple product object. ID:9605
+07-26-2023 @ 13:37:01 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01871.png
+07-26-2023 @ 13:37:01 - Attachment ID:9606
+07-26-2023 @ 13:37:01 - Row :75 - Product imported successfully.
+07-26-2023 @ 13:37:01 - Row :76 - Parsing item.
+07-26-2023 @ 13:37:01 - Importing as new product ID:9608
+07-26-2023 @ 13:37:01 - Row :76 - Processing item.
+07-26-2023 @ 13:37:01 - Found simple product object. ID:9608
+07-26-2023 @ 13:37:01 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01867.png
+07-26-2023 @ 13:37:01 - Attachment ID:9609
+07-26-2023 @ 13:37:01 - Row :76 - Product imported successfully.
+07-26-2023 @ 13:37:01 - Row :77 - Parsing item.
+07-26-2023 @ 13:37:01 - Importing as new product ID:9611
+07-26-2023 @ 13:37:01 - Row :77 - Processing item.
+07-26-2023 @ 13:37:01 - Found simple product object. ID:9611
+07-26-2023 @ 13:37:01 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01868.png
+07-26-2023 @ 13:37:01 - Attachment ID:9612
+07-26-2023 @ 13:37:02 - Row :77 - Product imported successfully.
+07-26-2023 @ 13:37:02 - Row :78 - Parsing item.
+07-26-2023 @ 13:37:02 - Importing as new product ID:9614
+07-26-2023 @ 13:37:02 - Row :78 - Processing item.
+07-26-2023 @ 13:37:02 - Found simple product object. ID:9614
+07-26-2023 @ 13:37:02 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01869.png
+07-26-2023 @ 13:37:02 - Attachment ID:9615
+07-26-2023 @ 13:37:02 - Row :78 - Product imported successfully.
+07-26-2023 @ 13:37:02 - Row :79 - Parsing item.
+07-26-2023 @ 13:37:02 - Importing as new product ID:9617
+07-26-2023 @ 13:37:02 - Row :79 - Processing item.
+07-26-2023 @ 13:37:02 - Found simple product object. ID:9617
+07-26-2023 @ 13:37:02 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01870.png
+07-26-2023 @ 13:37:02 - Attachment ID:9618
+07-26-2023 @ 13:37:02 - Row :79 - Product imported successfully.
+07-26-2023 @ 13:37:02 - Row :80 - Parsing item.
+07-26-2023 @ 13:37:02 - Importing as new product ID:9620
+07-26-2023 @ 13:37:02 - Row :80 - Processing item.
+07-26-2023 @ 13:37:02 - Found simple product object. ID:9620
+07-26-2023 @ 13:37:02 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01872.png
+07-26-2023 @ 13:37:02 - Attachment ID:9621
+07-26-2023 @ 13:37:02 - Row :80 - Product imported successfully.
+07-26-2023 @ 13:37:03 - Preparing for import.
+07-26-2023 @ 13:37:03 - Row :81 - Parsing item.
+07-26-2023 @ 13:37:03 - Importing as new product ID:9623
+07-26-2023 @ 13:37:03 - Row :81 - Processing item.
+07-26-2023 @ 13:37:03 - Found simple product object. ID:9623
+07-26-2023 @ 13:37:03 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01959.png
+07-26-2023 @ 13:37:03 - Attachment ID:9624
+07-26-2023 @ 13:37:04 - Row :81 - Product imported successfully.
+07-26-2023 @ 13:37:04 - Row :82 - Parsing item.
+07-26-2023 @ 13:37:04 - Importing as new product ID:9626
+07-26-2023 @ 13:37:04 - Row :82 - Processing item.
+07-26-2023 @ 13:37:04 - Found simple product object. ID:9626
+07-26-2023 @ 13:37:04 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01899.png
+07-26-2023 @ 13:37:04 - Attachment ID:9627
+07-26-2023 @ 13:37:04 - Row :82 - Product imported successfully.
+07-26-2023 @ 13:37:04 - Row :83 - Parsing item.
+07-26-2023 @ 13:37:04 - Importing as new product ID:9629
+07-26-2023 @ 13:37:04 - Row :83 - Processing item.
+07-26-2023 @ 13:37:04 - Found simple product object. ID:9629
+07-26-2023 @ 13:37:04 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01898.png
+07-26-2023 @ 13:37:04 - Attachment ID:9630
+07-26-2023 @ 13:37:04 - Row :83 - Product imported successfully.
+07-26-2023 @ 13:37:04 - Row :84 - Parsing item.
+07-26-2023 @ 13:37:04 - Importing as new product ID:9632
+07-26-2023 @ 13:37:04 - Row :84 - Processing item.
+07-26-2023 @ 13:37:04 - Found simple product object. ID:9632
+07-26-2023 @ 13:37:04 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01876.png
+07-26-2023 @ 13:37:04 - Attachment ID:9633
+07-26-2023 @ 13:37:04 - Row :84 - Product imported successfully.
+07-26-2023 @ 13:37:04 - Row :85 - Parsing item.
+07-26-2023 @ 13:37:04 - Importing as new product ID:9635
+07-26-2023 @ 13:37:04 - Row :85 - Processing item.
+07-26-2023 @ 13:37:04 - Found simple product object. ID:9635
+07-26-2023 @ 13:37:04 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01877.png
+07-26-2023 @ 13:37:04 - Attachment ID:9636
+07-26-2023 @ 13:37:04 - Row :85 - Product imported successfully.
+07-26-2023 @ 13:37:04 - Row :86 - Parsing item.
+07-26-2023 @ 13:37:04 - Importing as new product ID:9638
+07-26-2023 @ 13:37:04 - Row :86 - Processing item.
+07-26-2023 @ 13:37:04 - Found simple product object. ID:9638
+07-26-2023 @ 13:37:04 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01782.png
+07-26-2023 @ 13:37:05 - Attachment ID:9639
+07-26-2023 @ 13:37:05 - Row :86 - Product imported successfully.
+07-26-2023 @ 13:37:05 - Row :87 - Parsing item.
+07-26-2023 @ 13:37:05 - Importing as new product ID:9641
+07-26-2023 @ 13:37:05 - Row :87 - Processing item.
+07-26-2023 @ 13:37:05 - Found simple product object. ID:9641
+07-26-2023 @ 13:37:05 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01807.png
+07-26-2023 @ 13:37:05 - Attachment ID:9642
+07-26-2023 @ 13:37:05 - Row :87 - Product imported successfully.
+07-26-2023 @ 13:37:05 - Row :88 - Parsing item.
+07-26-2023 @ 13:37:05 - Importing as new product ID:9644
+07-26-2023 @ 13:37:05 - Row :88 - Processing item.
+07-26-2023 @ 13:37:05 - Found simple product object. ID:9644
+07-26-2023 @ 13:37:05 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01874.png
+07-26-2023 @ 13:37:05 - Attachment ID:9645
+07-26-2023 @ 13:37:05 - Row :88 - Product imported successfully.
+07-26-2023 @ 13:37:05 - Row :89 - Parsing item.
+07-26-2023 @ 13:37:05 - Importing as new product ID:9647
+07-26-2023 @ 13:37:05 - Row :89 - Processing item.
+07-26-2023 @ 13:37:05 - Found simple product object. ID:9647
+07-26-2023 @ 13:37:05 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01873.png
+07-26-2023 @ 13:37:05 - Attachment ID:9648
+07-26-2023 @ 13:37:05 - Row :89 - Product imported successfully.
+07-26-2023 @ 13:37:05 - Row :90 - Parsing item.
+07-26-2023 @ 13:37:05 - Importing as new product ID:9650
+07-26-2023 @ 13:37:05 - Row :90 - Processing item.
+07-26-2023 @ 13:37:05 - Found simple product object. ID:9650
+07-26-2023 @ 13:37:05 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01796.png
+07-26-2023 @ 13:37:05 - Attachment ID:9651
+07-26-2023 @ 13:37:06 - Row :90 - Product imported successfully.
+07-26-2023 @ 13:37:07 - Preparing for import.
+07-26-2023 @ 13:37:07 - Row :91 - Parsing item.
+07-26-2023 @ 13:37:07 - Importing as new product ID:9653
+07-26-2023 @ 13:37:07 - Row :91 - Processing item.
+07-26-2023 @ 13:37:07 - Found simple product object. ID:9653
+07-26-2023 @ 13:37:07 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01798.png
+07-26-2023 @ 13:37:07 - Attachment ID:9654
+07-26-2023 @ 13:37:07 - Row :91 - Product imported successfully.
+07-26-2023 @ 13:37:07 - Row :92 - Parsing item.
+07-26-2023 @ 13:37:07 - Importing as new product ID:9656
+07-26-2023 @ 13:37:07 - Row :92 - Processing item.
+07-26-2023 @ 13:37:07 - Found simple product object. ID:9656
+07-26-2023 @ 13:37:07 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01793.png
+07-26-2023 @ 13:37:07 - Attachment ID:9657
+07-26-2023 @ 13:37:07 - Row :92 - Product imported successfully.
+07-26-2023 @ 13:37:07 - Row :93 - Parsing item.
+07-26-2023 @ 13:37:07 - Importing as new product ID:9659
+07-26-2023 @ 13:37:07 - Row :93 - Processing item.
+07-26-2023 @ 13:37:07 - Found simple product object. ID:9659
+07-26-2023 @ 13:37:07 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01794.png
+07-26-2023 @ 13:37:07 - Attachment ID:9660
+07-26-2023 @ 13:37:07 - Row :93 - Product imported successfully.
+07-26-2023 @ 13:37:07 - Row :94 - Parsing item.
+07-26-2023 @ 13:37:07 - Importing as new product ID:9662
+07-26-2023 @ 13:37:07 - Row :94 - Processing item.
+07-26-2023 @ 13:37:07 - Found simple product object. ID:9662
+07-26-2023 @ 13:37:07 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01795.png
+07-26-2023 @ 13:37:07 - Attachment ID:9663
+07-26-2023 @ 13:37:08 - Row :94 - Product imported successfully.
+07-26-2023 @ 13:37:08 - Row :95 - Parsing item.
+07-26-2023 @ 13:37:08 - Importing as new product ID:9665
+07-26-2023 @ 13:37:08 - Row :95 - Processing item.
+07-26-2023 @ 13:37:08 - Found simple product object. ID:9665
+07-26-2023 @ 13:37:08 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01797.png
+07-26-2023 @ 13:37:08 - Attachment ID:9666
+07-26-2023 @ 13:37:08 - Row :95 - Product imported successfully.
+07-26-2023 @ 13:37:08 - Row :96 - Parsing item.
+07-26-2023 @ 13:37:08 - Importing as new product ID:9668
+07-26-2023 @ 13:37:08 - Row :96 - Processing item.
+07-26-2023 @ 13:37:08 - Found simple product object. ID:9668
+07-26-2023 @ 13:37:08 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01557.png
+07-26-2023 @ 13:37:08 - Attachment ID:9669
+07-26-2023 @ 13:37:08 - Row :96 - Product imported successfully.
+07-26-2023 @ 13:37:08 - Row :97 - Parsing item.
+07-26-2023 @ 13:37:08 - Importing as new product ID:9671
+07-26-2023 @ 13:37:08 - Row :97 - Processing item.
+07-26-2023 @ 13:37:08 - Found simple product object. ID:9671
+07-26-2023 @ 13:37:08 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01559.png
+07-26-2023 @ 13:37:08 - Attachment ID:9672
+07-26-2023 @ 13:37:08 - Row :97 - Product imported successfully.
+07-26-2023 @ 13:37:08 - Row :98 - Parsing item.
+07-26-2023 @ 13:37:08 - Importing as new product ID:9674
+07-26-2023 @ 13:37:08 - Row :98 - Processing item.
+07-26-2023 @ 13:37:08 - Found simple product object. ID:9674
+07-26-2023 @ 13:37:08 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01558.png
+07-26-2023 @ 13:37:08 - Attachment ID:9675
+07-26-2023 @ 13:37:09 - Row :98 - Product imported successfully.
+07-26-2023 @ 13:37:09 - Row :99 - Parsing item.
+07-26-2023 @ 13:37:09 - Importing as new product ID:9677
+07-26-2023 @ 13:37:09 - Row :99 - Processing item.
+07-26-2023 @ 13:37:09 - Found simple product object. ID:9677
+07-26-2023 @ 13:37:09 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01480.jpg
+07-26-2023 @ 13:37:09 - Attachment ID:9678
+07-26-2023 @ 13:37:09 - Row :99 - Product imported successfully.
+07-26-2023 @ 13:37:09 - Row :100 - Parsing item.
+07-26-2023 @ 13:37:09 - Importing as new product ID:9680
+07-26-2023 @ 13:37:09 - Row :100 - Processing item.
+07-26-2023 @ 13:37:09 - Found simple product object. ID:9680
+07-26-2023 @ 13:37:09 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01479.jpg
+07-26-2023 @ 13:37:09 - Attachment ID:9681
+07-26-2023 @ 13:37:09 - Row :100 - Product imported successfully.
+07-26-2023 @ 13:37:10 - Preparing for import.
+07-26-2023 @ 13:37:10 - Row :101 - Parsing item.
+07-26-2023 @ 13:37:10 - Importing as new product ID:9683
+07-26-2023 @ 13:37:10 - Row :101 - Processing item.
+07-26-2023 @ 13:37:10 - Found simple product object. ID:9683
+07-26-2023 @ 13:37:10 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01780.png
+07-26-2023 @ 13:37:10 - Attachment ID:9684
+07-26-2023 @ 13:37:10 - Row :101 - Product imported successfully.
+07-26-2023 @ 13:37:10 - Row :102 - Parsing item.
+07-26-2023 @ 13:37:10 - Importing as new product ID:9686
+07-26-2023 @ 13:37:10 - Row :102 - Processing item.
+07-26-2023 @ 13:37:10 - Found simple product object. ID:9686
+07-26-2023 @ 13:37:10 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01572.png
+07-26-2023 @ 13:37:10 - Attachment ID:9687
+07-26-2023 @ 13:37:10 - Row :102 - Product imported successfully.
+07-26-2023 @ 13:37:10 - Row :103 - Parsing item.
+07-26-2023 @ 13:37:10 - Importing as new product ID:9689
+07-26-2023 @ 13:37:10 - Row :103 - Processing item.
+07-26-2023 @ 13:37:10 - Found simple product object. ID:9689
+07-26-2023 @ 13:37:10 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01576.png
+07-26-2023 @ 13:37:11 - Attachment ID:9690
+07-26-2023 @ 13:37:11 - Row :103 - Product imported successfully.
+07-26-2023 @ 13:37:11 - Row :104 - Parsing item.
+07-26-2023 @ 13:37:11 - Importing as new product ID:9692
+07-26-2023 @ 13:37:11 - Row :104 - Processing item.
+07-26-2023 @ 13:37:11 - Found simple product object. ID:9692
+07-26-2023 @ 13:37:11 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01580.png
+07-26-2023 @ 13:37:11 - Attachment ID:9693
+07-26-2023 @ 13:37:11 - Row :104 - Product imported successfully.
+07-26-2023 @ 13:37:11 - Row :105 - Parsing item.
+07-26-2023 @ 13:37:11 - Importing as new product ID:9695
+07-26-2023 @ 13:37:11 - Row :105 - Processing item.
+07-26-2023 @ 13:37:11 - Found simple product object. ID:9695
+07-26-2023 @ 13:37:11 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01584.png
+07-26-2023 @ 13:37:11 - Attachment ID:9696
+07-26-2023 @ 13:37:11 - Row :105 - Product imported successfully.
+07-26-2023 @ 13:37:11 - Row :106 - Parsing item.
+07-26-2023 @ 13:37:11 - Importing as new product ID:9698
+07-26-2023 @ 13:37:11 - Row :106 - Processing item.
+07-26-2023 @ 13:37:11 - Found simple product object. ID:9698
+07-26-2023 @ 13:37:11 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01592.png
+07-26-2023 @ 13:37:11 - Attachment ID:9699
+07-26-2023 @ 13:37:11 - Row :106 - Product imported successfully.
+07-26-2023 @ 13:37:11 - Row :107 - Parsing item.
+07-26-2023 @ 13:37:11 - Importing as new product ID:9701
+07-26-2023 @ 13:37:11 - Row :107 - Processing item.
+07-26-2023 @ 13:37:11 - Found simple product object. ID:9701
+07-26-2023 @ 13:37:11 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01588.png
+07-26-2023 @ 13:37:11 - Attachment ID:9702
+07-26-2023 @ 13:37:12 - Row :107 - Product imported successfully.
+07-26-2023 @ 13:37:12 - Row :108 - Parsing item.
+07-26-2023 @ 13:37:12 - Importing as new product ID:9704
+07-26-2023 @ 13:37:12 - Row :108 - Processing item.
+07-26-2023 @ 13:37:12 - Found simple product object. ID:9704
+07-26-2023 @ 13:37:12 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01596.png
+07-26-2023 @ 13:37:12 - Attachment ID:9705
+07-26-2023 @ 13:37:12 - Row :108 - Product imported successfully.
+07-26-2023 @ 13:37:12 - Row :109 - Parsing item.
+07-26-2023 @ 13:37:12 - Importing as new product ID:9707
+07-26-2023 @ 13:37:12 - Row :109 - Processing item.
+07-26-2023 @ 13:37:12 - Found simple product object. ID:9707
+07-26-2023 @ 13:37:12 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01600.png
+07-26-2023 @ 13:37:12 - Attachment ID:9708
+07-26-2023 @ 13:37:12 - Row :109 - Product imported successfully.
+07-26-2023 @ 13:37:12 - Row :110 - Parsing item.
+07-26-2023 @ 13:37:12 - Importing as new product ID:9710
+07-26-2023 @ 13:37:12 - Row :110 - Processing item.
+07-26-2023 @ 13:37:12 - Found simple product object. ID:9710
+07-26-2023 @ 13:37:12 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01723.jpg
+07-26-2023 @ 13:37:12 - Attachment ID:9711
+07-26-2023 @ 13:37:12 - Row :110 - Product imported successfully.
+07-26-2023 @ 13:37:13 - Preparing for import.
+07-26-2023 @ 13:37:13 - Row :111 - Parsing item.
+07-26-2023 @ 13:37:13 - Importing as new product ID:9713
+07-26-2023 @ 13:37:13 - Row :111 - Processing item.
+07-26-2023 @ 13:37:13 - Found simple product object. ID:9713
+07-26-2023 @ 13:37:13 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01722.jpg
+07-26-2023 @ 13:37:13 - Attachment ID:9714
+07-26-2023 @ 13:37:14 - Row :111 - Product imported successfully.
+07-26-2023 @ 13:37:14 - Row :112 - Parsing item.
+07-26-2023 @ 13:37:14 - Importing as new product ID:9716
+07-26-2023 @ 13:37:14 - Row :112 - Processing item.
+07-26-2023 @ 13:37:14 - Found simple product object. ID:9716
+07-26-2023 @ 13:37:14 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01724.jpg
+07-26-2023 @ 13:37:14 - Attachment ID:9717
+07-26-2023 @ 13:37:14 - Row :112 - Product imported successfully.
+07-26-2023 @ 13:37:14 - Row :113 - Parsing item.
+07-26-2023 @ 13:37:14 - Importing as new product ID:9719
+07-26-2023 @ 13:37:14 - Row :113 - Processing item.
+07-26-2023 @ 13:37:14 - Found simple product object. ID:9719
+07-26-2023 @ 13:37:14 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01726.jpg
+07-26-2023 @ 13:37:14 - Attachment ID:9720
+07-26-2023 @ 13:37:14 - Row :113 - Product imported successfully.
+07-26-2023 @ 13:37:14 - Row :114 - Parsing item.
+07-26-2023 @ 13:37:14 - Importing as new product ID:9722
+07-26-2023 @ 13:37:14 - Row :114 - Processing item.
+07-26-2023 @ 13:37:14 - Found simple product object. ID:9722
+07-26-2023 @ 13:37:14 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01837.png
+07-26-2023 @ 13:37:14 - Attachment ID:9723
+07-26-2023 @ 13:37:14 - Row :114 - Product imported successfully.
+07-26-2023 @ 13:37:14 - Row :115 - Parsing item.
+07-26-2023 @ 13:37:14 - Importing as new product ID:9725
+07-26-2023 @ 13:37:14 - Row :115 - Processing item.
+07-26-2023 @ 13:37:14 - Found simple product object. ID:9725
+07-26-2023 @ 13:37:14 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01838.png
+07-26-2023 @ 13:37:14 - Attachment ID:9726
+07-26-2023 @ 13:37:14 - Row :115 - Product imported successfully.
+07-26-2023 @ 13:37:14 - Row :116 - Parsing item.
+07-26-2023 @ 13:37:14 - Importing as new product ID:9728
+07-26-2023 @ 13:37:14 - Row :116 - Processing item.
+07-26-2023 @ 13:37:14 - Found simple product object. ID:9728
+07-26-2023 @ 13:37:14 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01839.png
+07-26-2023 @ 13:37:15 - Attachment ID:9729
+07-26-2023 @ 13:37:15 - Row :116 - Product imported successfully.
+07-26-2023 @ 13:37:15 - Row :117 - Parsing item.
+07-26-2023 @ 13:37:15 - Importing as new product ID:9731
+07-26-2023 @ 13:37:15 - Row :117 - Processing item.
+07-26-2023 @ 13:37:15 - Found simple product object. ID:9731
+07-26-2023 @ 13:37:15 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01834.png
+07-26-2023 @ 13:37:15 - Attachment ID:9732
+07-26-2023 @ 13:37:15 - Row :117 - Product imported successfully.
+07-26-2023 @ 13:37:15 - Row :118 - Parsing item.
+07-26-2023 @ 13:37:15 - Importing as new product ID:9734
+07-26-2023 @ 13:37:15 - Row :118 - Processing item.
+07-26-2023 @ 13:37:15 - Found simple product object. ID:9734
+07-26-2023 @ 13:37:15 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01835.png
+07-26-2023 @ 13:37:15 - Attachment ID:9735
+07-26-2023 @ 13:37:15 - Row :118 - Product imported successfully.
+07-26-2023 @ 13:37:15 - Row :119 - Parsing item.
+07-26-2023 @ 13:37:15 - Importing as new product ID:9737
+07-26-2023 @ 13:37:15 - Row :119 - Processing item.
+07-26-2023 @ 13:37:15 - Found simple product object. ID:9737
+07-26-2023 @ 13:37:15 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01836.png
+07-26-2023 @ 13:37:15 - Attachment ID:9738
+07-26-2023 @ 13:37:15 - Row :119 - Product imported successfully.
+07-26-2023 @ 13:37:15 - Row :120 - Parsing item.
+07-26-2023 @ 13:37:15 - Importing as new product ID:9740
+07-26-2023 @ 13:37:15 - Row :120 - Processing item.
+07-26-2023 @ 13:37:15 - Found simple product object. ID:9740
+07-26-2023 @ 13:37:15 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01840.png
+07-26-2023 @ 13:37:16 - Attachment ID:9741
+07-26-2023 @ 13:37:16 - Row :120 - Product imported successfully.
+07-26-2023 @ 13:37:17 - Preparing for import.
+07-26-2023 @ 13:37:17 - Row :121 - Parsing item.
+07-26-2023 @ 13:37:17 - Importing as new product ID:9743
+07-26-2023 @ 13:37:17 - Row :121 - Processing item.
+07-26-2023 @ 13:37:17 - Found simple product object. ID:9743
+07-26-2023 @ 13:37:17 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01718.jpg
+07-26-2023 @ 13:37:17 - Attachment ID:9744
+07-26-2023 @ 13:37:17 - Row :121 - Product imported successfully.
+07-26-2023 @ 13:37:17 - Row :122 - Parsing item.
+07-26-2023 @ 13:37:17 - Importing as new product ID:9746
+07-26-2023 @ 13:37:17 - Row :122 - Processing item.
+07-26-2023 @ 13:37:17 - Found simple product object. ID:9746
+07-26-2023 @ 13:37:17 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01681.jpg
+07-26-2023 @ 13:37:17 - Attachment ID:9747
+07-26-2023 @ 13:37:17 - Row :122 - Product imported successfully.
+07-26-2023 @ 13:37:17 - Row :123 - Parsing item.
+07-26-2023 @ 13:37:17 - Importing as new product ID:9749
+07-26-2023 @ 13:37:17 - Row :123 - Processing item.
+07-26-2023 @ 13:37:17 - Found simple product object. ID:9749
+07-26-2023 @ 13:37:17 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01682.jpg
+07-26-2023 @ 13:37:17 - Attachment ID:9750
+07-26-2023 @ 13:37:17 - Row :123 - Product imported successfully.
+07-26-2023 @ 13:37:17 - Row :124 - Parsing item.
+07-26-2023 @ 13:37:17 - Importing as new product ID:9752
+07-26-2023 @ 13:37:17 - Row :124 - Processing item.
+07-26-2023 @ 13:37:17 - Found simple product object. ID:9752
+07-26-2023 @ 13:37:17 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01683.jpg
+07-26-2023 @ 13:37:17 - Attachment ID:9753
+07-26-2023 @ 13:37:18 - Row :124 - Product imported successfully.
+07-26-2023 @ 13:37:18 - Row :125 - Parsing item.
+07-26-2023 @ 13:37:18 - Importing as new product ID:9755
+07-26-2023 @ 13:37:18 - Row :125 - Processing item.
+07-26-2023 @ 13:37:18 - Found simple product object. ID:9755
+07-26-2023 @ 13:37:18 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01684.jpg
+07-26-2023 @ 13:37:18 - Attachment ID:9756
+07-26-2023 @ 13:37:18 - Row :125 - Product imported successfully.
+07-26-2023 @ 13:37:18 - Row :126 - Parsing item.
+07-26-2023 @ 13:37:18 - Importing as new product ID:9758
+07-26-2023 @ 13:37:18 - Row :126 - Processing item.
+07-26-2023 @ 13:37:18 - Found simple product object. ID:9758
+07-26-2023 @ 13:37:18 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01685.jpg
+07-26-2023 @ 13:37:18 - Attachment ID:9759
+07-26-2023 @ 13:37:18 - Row :126 - Product imported successfully.
+07-26-2023 @ 13:37:18 - Row :127 - Parsing item.
+07-26-2023 @ 13:37:18 - Importing as new product ID:9761
+07-26-2023 @ 13:37:18 - Row :127 - Processing item.
+07-26-2023 @ 13:37:18 - Found simple product object. ID:9761
+07-26-2023 @ 13:37:18 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01965.png
+07-26-2023 @ 13:37:18 - Attachment ID:9762
+07-26-2023 @ 13:37:18 - Row :127 - Product imported successfully.
+07-26-2023 @ 13:37:18 - Row :128 - Parsing item.
+07-26-2023 @ 13:37:18 - Importing as new product ID:9764
+07-26-2023 @ 13:37:18 - Row :128 - Processing item.
+07-26-2023 @ 13:37:18 - Found simple product object. ID:9764
+07-26-2023 @ 13:37:18 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01963.png
+07-26-2023 @ 13:37:18 - Attachment ID:9765
+07-26-2023 @ 13:37:19 - Row :128 - Product imported successfully.
+07-26-2023 @ 13:37:19 - Row :129 - Parsing item.
+07-26-2023 @ 13:37:19 - Importing as new product ID:9767
+07-26-2023 @ 13:37:19 - Row :129 - Processing item.
+07-26-2023 @ 13:37:19 - Found simple product object. ID:9767
+07-26-2023 @ 13:37:19 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01964.png
+07-26-2023 @ 13:37:19 - Attachment ID:9768
+07-26-2023 @ 13:37:19 - Row :129 - Product imported successfully.
+07-26-2023 @ 13:37:19 - Row :130 - Parsing item.
+07-26-2023 @ 13:37:19 - Importing as new product ID:9770
+07-26-2023 @ 13:37:19 - Row :130 - Processing item.
+07-26-2023 @ 13:37:19 - Found simple product object. ID:9770
+07-26-2023 @ 13:37:19 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01686.jpg
+07-26-2023 @ 13:37:19 - Attachment ID:9771
+07-26-2023 @ 13:37:19 - Row :130 - Product imported successfully.
+07-26-2023 @ 13:37:20 - Preparing for import.
+07-26-2023 @ 13:37:20 - Row :131 - Parsing item.
+07-26-2023 @ 13:37:20 - Importing as new product ID:9773
+07-26-2023 @ 13:37:20 - Row :131 - Processing item.
+07-26-2023 @ 13:37:20 - Found simple product object. ID:9773
+07-26-2023 @ 13:37:20 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01687.jpg
+07-26-2023 @ 13:37:20 - Attachment ID:9774
+07-26-2023 @ 13:37:20 - Row :131 - Product imported successfully.
+07-26-2023 @ 13:37:20 - Row :132 - Parsing item.
+07-26-2023 @ 13:37:20 - Importing as new product ID:9776
+07-26-2023 @ 13:37:20 - Row :132 - Processing item.
+07-26-2023 @ 13:37:20 - Found simple product object. ID:9776
+07-26-2023 @ 13:37:20 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01688.jpg
+07-26-2023 @ 13:37:20 - Attachment ID:9777
+07-26-2023 @ 13:37:20 - Row :132 - Product imported successfully.
+07-26-2023 @ 13:37:20 - Row :133 - Parsing item.
+07-26-2023 @ 13:37:20 - Importing as new product ID:9779
+07-26-2023 @ 13:37:20 - Row :133 - Processing item.
+07-26-2023 @ 13:37:20 - Found simple product object. ID:9779
+07-26-2023 @ 13:37:20 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01900.png
+07-26-2023 @ 13:37:20 - Attachment ID:9780
+07-26-2023 @ 13:37:21 - Row :133 - Product imported successfully.
+07-26-2023 @ 13:37:21 - Row :134 - Parsing item.
+07-26-2023 @ 13:37:21 - Importing as new product ID:9782
+07-26-2023 @ 13:37:21 - Row :134 - Processing item.
+07-26-2023 @ 13:37:21 - Found simple product object. ID:9782
+07-26-2023 @ 13:37:21 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01690.jpg
+07-26-2023 @ 13:37:21 - Attachment ID:9783
+07-26-2023 @ 13:37:21 - Row :134 - Product imported successfully.
+07-26-2023 @ 13:37:21 - Row :135 - Parsing item.
+07-26-2023 @ 13:37:21 - Importing as new product ID:9785
+07-26-2023 @ 13:37:21 - Row :135 - Processing item.
+07-26-2023 @ 13:37:21 - Found simple product object. ID:9785
+07-26-2023 @ 13:37:21 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01691.jpg
+07-26-2023 @ 13:37:21 - Attachment ID:9786
+07-26-2023 @ 13:37:21 - Row :135 - Product imported successfully.
+07-26-2023 @ 13:37:21 - Row :136 - Parsing item.
+07-26-2023 @ 13:37:21 - Importing as new product ID:9788
+07-26-2023 @ 13:37:21 - Row :136 - Processing item.
+07-26-2023 @ 13:37:21 - Found simple product object. ID:9788
+07-26-2023 @ 13:37:21 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01692.jpg
+07-26-2023 @ 13:37:21 - Attachment ID:9789
+07-26-2023 @ 13:37:21 - Row :136 - Product imported successfully.
+07-26-2023 @ 13:37:21 - Row :137 - Parsing item.
+07-26-2023 @ 13:37:21 - Importing as new product ID:9791
+07-26-2023 @ 13:37:21 - Row :137 - Processing item.
+07-26-2023 @ 13:37:21 - Found simple product object. ID:9791
+07-26-2023 @ 13:37:21 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01693.jpg
+07-26-2023 @ 13:37:21 - Attachment ID:9792
+07-26-2023 @ 13:37:21 - Row :137 - Product imported successfully.
+07-26-2023 @ 13:37:21 - Row :138 - Parsing item.
+07-26-2023 @ 13:37:21 - Importing as new product ID:9794
+07-26-2023 @ 13:37:21 - Row :138 - Processing item.
+07-26-2023 @ 13:37:21 - Found simple product object. ID:9794
+07-26-2023 @ 13:37:21 - Setting Featured Image. URL:https://www.bumhan.com.my/product_img/IM01694.jpg
+07-26-2023 @ 13:37:22 - Attachment ID:9795
+07-26-2023 @ 13:37:22 - Row :138 - Product imported successfully.
+07-26-2023 @ 13:37:22 - ---[ Import ended at 2023-07-26 13:37:22]---

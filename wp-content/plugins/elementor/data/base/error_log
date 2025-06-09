@@ -1,0 +1,40 @@
+[16-Aug-2024 01:15:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/controller.php on line 9
+[16-Aug-2024 01:15:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/controller.php on line 9
+[16-Aug-2024 01:15:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\Base\Endpoint' not found in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php on line 6
+[16-Aug-2024 01:15:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\Base\Endpoint' not found in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php on line 6
+[31-Aug-2024 20:00:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\Base\Endpoint' not found in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php on line 6
+[31-Aug-2024 20:00:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\Base\Endpoint' not found in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php on line 6
+[05-Sep-2024 11:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\Base\Endpoint' not found in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php on line 6
+[05-Sep-2024 11:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\Base\Endpoint' not found in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php on line 6
+[08-Sep-2024 09:02:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\Base\Endpoint' not found in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php on line 6
+[08-Sep-2024 09:02:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\Base\Endpoint' not found in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/elementor/data/base/sub-endpoint.php on line 6

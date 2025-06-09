@@ -1,0 +1,16 @@
+[16-Aug-2024 02:34:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Caching\CacheEngine' not found in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Caching/WpCacheEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Caching/WpCacheEngine.php on line 8
+[16-Aug-2024 02:34:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Caching\CacheEngine' not found in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Caching/WpCacheEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Caching/WpCacheEngine.php on line 8
+[31-Aug-2024 21:24:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Caching\CacheEngine' not found in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Caching/WpCacheEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Caching/WpCacheEngine.php on line 8
+[31-Aug-2024 21:24:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Caching\CacheEngine' not found in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Caching/WpCacheEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/woocommerce/src/Caching/WpCacheEngine.php on line 8

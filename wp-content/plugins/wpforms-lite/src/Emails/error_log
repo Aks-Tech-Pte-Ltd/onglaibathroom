@@ -1,0 +1,8 @@
+[31-Aug-2024 21:59:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Tasks\Task' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Emails/FetchInfoBlocksTask.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Emails/FetchInfoBlocksTask.php on line 12
+[31-Aug-2024 21:59:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms\Tasks\Task' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Emails/FetchInfoBlocksTask.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/src/Emails/FetchInfoBlocksTask.php on line 12

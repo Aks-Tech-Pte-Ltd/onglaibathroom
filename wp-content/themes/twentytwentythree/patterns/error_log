@@ -1,0 +1,48 @@
+[26-May-2024 10:50:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[26-May-2024 10:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19
+[26-May-2024 10:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[26-May-2024 10:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[26-May-2024 10:50:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[26-May-2024 10:50:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28
+[10-Jun-2024 10:47:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[10-Jun-2024 10:47:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19
+[10-Jun-2024 10:47:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[10-Jun-2024 10:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[10-Jun-2024 10:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[10-Jun-2024 10:47:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28

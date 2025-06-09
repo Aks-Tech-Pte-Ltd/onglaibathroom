@@ -1,0 +1,16 @@
+[31-Aug-2024 21:56:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Template' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/templates/class-blank.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/templates/class-blank.php on line 8
+[31-Aug-2024 21:56:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Template' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/templates/class-blank.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/templates/class-blank.php on line 8
+[31-Aug-2024 21:56:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Template' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/templates/class-simple-contact-form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/templates/class-simple-contact-form.php on line 8
+[31-Aug-2024 21:57:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WPForms_Template' not found in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/templates/class-simple-contact-form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-content/plugins/wpforms-lite/includes/templates/class-simple-contact-form.php on line 8

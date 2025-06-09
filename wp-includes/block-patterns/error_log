@@ -1,0 +1,412 @@
+[29-Feb-2024 16:03:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[29-Feb-2024 16:03:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[29-Feb-2024 16:03:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[29-Feb-2024 16:03:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[29-Feb-2024 16:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[29-Feb-2024 16:03:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[29-Feb-2024 16:03:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[29-Feb-2024 16:03:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[06-Mar-2024 14:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[06-Mar-2024 14:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[06-Mar-2024 14:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[06-Mar-2024 14:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[06-Mar-2024 14:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[06-Mar-2024 14:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[06-Mar-2024 14:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[06-Mar-2024 14:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[06-Mar-2024 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[07-Mar-2024 11:57:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[07-Mar-2024 11:57:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[07-Mar-2024 11:57:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[07-Mar-2024 11:57:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[07-Mar-2024 11:57:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[07-Mar-2024 11:57:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[07-Mar-2024 11:57:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[07-Mar-2024 11:57:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[07-Mar-2024 22:36:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[07-Mar-2024 22:36:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[07-Mar-2024 22:36:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[07-Mar-2024 22:36:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[07-Mar-2024 22:36:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[07-Mar-2024 22:36:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[07-Mar-2024 22:36:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[26-May-2024 10:49:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[26-May-2024 10:49:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[26-May-2024 10:49:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[26-May-2024 10:49:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[26-May-2024 10:49:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[26-May-2024 10:49:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[26-May-2024 10:49:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[07-Jun-2024 22:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[07-Jun-2024 22:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[07-Jun-2024 22:27:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[07-Jun-2024 22:27:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[07-Jun-2024 22:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[07-Jun-2024 22:28:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[07-Jun-2024 22:28:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[10-Jun-2024 10:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[10-Jun-2024 10:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[10-Jun-2024 10:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[10-Jun-2024 10:44:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[10-Jun-2024 10:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[10-Jun-2024 10:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[10-Jun-2024 10:44:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[15-Jul-2024 17:05:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[15-Jul-2024 17:05:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[15-Jul-2024 17:05:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[15-Jul-2024 17:05:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[15-Jul-2024 17:05:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[15-Jul-2024 17:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[15-Jul-2024 17:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[12-Aug-2024 10:40:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[12-Aug-2024 10:40:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[12-Aug-2024 10:40:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[12-Aug-2024 10:40:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[12-Aug-2024 10:40:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[12-Aug-2024 10:40:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[12-Aug-2024 10:40:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[23-Aug-2024 13:25:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[23-Aug-2024 13:25:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[23-Aug-2024 13:25:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[23-Aug-2024 13:25:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[23-Aug-2024 13:25:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[23-Aug-2024 13:25:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[23-Aug-2024 13:25:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[26-Aug-2024 14:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[26-Aug-2024 14:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[26-Aug-2024 14:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[26-Aug-2024 14:42:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[26-Aug-2024 14:42:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[26-Aug-2024 14:42:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[26-Aug-2024 14:42:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[26-Aug-2024 14:42:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[08-Sep-2024 06:07:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[08-Sep-2024 06:07:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[08-Sep-2024 06:07:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[08-Sep-2024 06:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[08-Sep-2024 06:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[08-Sep-2024 06:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[08-Sep-2024 06:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[27-Sep-2024 23:49:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[27-Sep-2024 23:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[27-Sep-2024 23:49:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[27-Sep-2024 23:49:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[27-Sep-2024 23:49:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[27-Sep-2024 23:49:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[27-Sep-2024 23:49:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/onglaibathroom/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
